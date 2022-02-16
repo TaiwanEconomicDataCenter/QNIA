@@ -1,0 +1,16 @@
+,id,name
+0,B1_GA,Gross domestic product at market prices - output approach
+1,B1_GE,Gross domestic product - expenditure approach
+2,B1G,"Gross value added at basic prices, total activity"
+3,B1GVA,"Agriculture, forestry and fishing (ISIC Rev.4)"
+4,B1GVB_E,"Industry, including energy (ISIC Rev.4)"
+5,B1GVF,Construction (ISIC Rev.4)
+6,B1GVG_I,"Distrib. trade, repairs; transp.; accommod., food serv. activ. (ISIC Rev.4)"
+7,B1GVG_U,Services (ISIC Rev.4)
+8,B1GVK,Financial and insurance activities (ISIC Rev.4)
+9,B1GVL,Real estate activities (ISIC Rev.4)
+10,B1GVR_U,Other service activities (ISIC Rev.4)
+11,PPPGDP,add. Purchasing power parity of GDP
+12,B1GVC,of which: Manufacturing (ISIC Rev.4)
+13,B1GVJ,Information and communication (ISIC Rev.4)
+14,B1GVM_N,"Prof., scientif., techn. activ.; admin., support service activ.(ISIC Rev.4)"

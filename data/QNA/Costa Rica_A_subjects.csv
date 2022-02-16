@@ -1,0 +1,111 @@
+,id,name
+0,P52,Changes in inventories
+1,B9S1,Net lending/net borrowing
+2,P5S1,Gross capital formation
+3,P51A,Gross fixed capital formation by asset
+4,B1_GE,Gross domestic product - expenditure approach
+5,P3,Final consumption expenditure
+6,D9NFRS2,Net capital transfers from the rest of the world
+7,P71,Imports of goods
+8,P62,Exports of services
+9,P61,Exports of goods
+10,D5_D7NFRS2,Net current transfers from the rest of the world
+11,D1_D4NFRS2,Net primary incomes from the rest of the world
+12,P31S14_S15,Private final consumption expenditure
+13,P72,Imports of services
+14,D9TOS2,Capital transfers payable to the rest of the world
+15,B11,External balance of goods and services
+16,P52_P53,Changes in inventories and acquisitions less disposals of valuables
+17,P41,add. Actual individual consumption
+18,P6,Exports of goods and services
+19,D1_D4FRS2,Primary incomes receivable from the rest of the world
+20,D5_D7TOS2,Current transfers payable to the rest of the world
+21,D1_D4TOS2,Primary incomes payable to the rest of the world
+22,P3S13,General government final consumption expenditure
+23,B1_GS1,Gross domestic product
+24,P51,Gross fixed capital formation
+25,B5_GS1,Gross national income at market prices
+26,D5_D7FRS2,Current transfers receivable from the rest of the world
+27,P5,Gross capital formation
+28,P7,Imports of goods and services
+29,P3S1,Final consumption expenditure
+30,RB1_GE,Residual item
+31,PPPGDP,add. Purchasing power parity of GDP
+32,B1_GA,Gross domestic product at market prices - output approach
+33,B1G,"Gross value added at basic prices, total activity"
+34,D21_D31,Taxes less subsidies on products
+35,P311B,Durable goods
+36,P312B,Semi-durable goods
+37,P312N,Other goods and services
+38,P313B,Non-durable goods
+39,P314B,Services
+40,P31DC,Households consumption expenditure (Domestic Concept)
+41,P51N1111,Dwellings
+42,P51N1112,Other buildings and structures
+43,P51N1114,Cultivated biological resources
+44,P51N112,Intellectual property products
+45,B1GVA,"Agriculture, forestry and fishing (ISIC Rev.4)"
+46,B1GVB_E,"Industry, including energy (ISIC Rev.4)"
+47,B1GVC,of which: Manufacturing (ISIC Rev.4)
+48,B1GVF,Construction (ISIC Rev.4)
+49,B1GVG_I,"Distrib. trade, repairs; transp.; accommod., food serv. activ. (ISIC Rev.4)"
+50,B1GVG_U,Services (ISIC Rev.4)
+51,B1GVJ,Information and communication (ISIC Rev.4)
+52,B1GVK,Financial and insurance activities (ISIC Rev.4)
+53,B1GVL,Real estate activities (ISIC Rev.4)
+54,B1GVM_N,"Prof., scientif., techn. activ.; admin., support service activ.(ISIC Rev.4)"
+55,B1GVO_Q,Public admin.; compulsory s.s.; education; human health (ISIC Rev.4)
+56,B1GVR_U,Other service activities (ISIC Rev.4)
+57,P51N1113,Machinery and equipment+weapon system
+58,P31S14_S15B,Private final consumption expenditure by durability
+59,B6NS1,Net national disposable income
+60,K1S1,Consumption of fixed capital
+61,B8NS1,Net saving
+62,K1MS1,Consumption of fixed capital
+63,B5_NS1,Net national income at market prices
+64,EEMVA,"Agriculture, forestry and fishing (ISIC Rev.4)"
+65,EEMVF,Construction (ISIC Rev.4)
+66,EEMVK,Financial and insurance activities (ISIC Rev.4)
+67,ESEVC,of which: Manufacturing (ISIC Rev.4)
+68,ESEVJ,Information and communication (ISIC Rev.4)
+69,ESEVM_N,"Prof., scientif., techn. activ.; admin., support service activ.(ISIC Rev.4)"
+70,ETOVA,"Agriculture, forestry and fishing (ISIC Rev.4)"
+71,ETOVL,Real estate activities (ISIC Rev.4)
+72,ETOVR_U,Other service activities (ISIC Rev.4)
+73,ESE,"Self-employed, total"
+74,EEMVB_E,"Industry, including energy (ISIC Rev.4)"
+75,EEMVG_I,"Distrib. trade, repairs; transp.; accommod., food serv. activ. (ISIC Rev.4)"
+76,EEMVL,Real estate activities (ISIC Rev.4)
+77,ESEVF,Construction (ISIC Rev.4)
+78,ESEVK,Financial and insurance activities (ISIC Rev.4)
+79,ESEVO_Q,Public admin.; compulsory s.s.; education; human health (ISIC Rev.4)
+80,ETOVJ,Information and communication (ISIC Rev.4)
+81,ETOVM_N,"Prof., scientif., techn. activ.; admin., support service activ.(ISIC Rev.4)"
+82,P31S13,Individual consumption expenditure of general government
+83,P32S13,Collective consumption expenditure of general government
+84,EEMVR_U,Other service activities (ISIC Rev.4)
+85,ETOVB_E,"Industry, including energy (ISIC Rev.4)"
+86,ETOVG_I,"Distrib. trade, repairs; transp.; accommod., food serv. activ. (ISIC Rev.4)"
+87,EEM,"Employees, total"
+88,ETONC,Total employment
+89,POPNC,Total population
+90,ETO,"Employment, total"
+91,EEMVC,of which: Manufacturing (ISIC Rev.4)
+92,EEMVO_Q,Public admin.; compulsory s.s.; education; human health (ISIC Rev.4)
+93,ESEVB_E,"Industry, including energy (ISIC Rev.4)"
+94,ESEVG_I,"Distrib. trade, repairs; transp.; accommod., food serv. activ. (ISIC Rev.4)"
+95,ESEVL,Real estate activities (ISIC Rev.4)
+96,ETOVF,Construction (ISIC Rev.4)
+97,ETOVK,Financial and insurance activities (ISIC Rev.4)
+98,ETOVO_Q,Public admin.; compulsory s.s.; education; human health (ISIC Rev.4)
+99,EEMNC,Employees
+100,EEMVJ,Information and communication (ISIC Rev.4)
+101,EEMVM_N,"Prof., scientif., techn. activ.; admin., support service activ.(ISIC Rev.4)"
+102,ESEVA,"Agriculture, forestry and fishing (ISIC Rev.4)"
+103,ESEVR_U,Other service activities (ISIC Rev.4)
+104,ETOVC,of which: Manufacturing (ISIC Rev.4)
+105,ESENC,Self-employed
+106,P3_P5,add. Total domestic demand
+107,P3_P6,add. Total demand
+108,D8S1,Adjustment for the change in pension entitlements
+109,K2S1,Acquisitions less disposals of non-financial non-produced assets

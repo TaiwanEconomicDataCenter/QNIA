@@ -1,0 +1,23 @@
+,id,name
+0,CAR,"National currency, current prices, annual levels"
+1,CQR,"National currency, current prices, quarterly levels"
+2,VNBAR,"National currency, constant prices, national base year, annual levels"
+3,VNBQR,"National currency, constant prices, national base year, quarterly levels"
+4,CARSA,"National currency, current prices, annual levels, seasonally adjusted"
+5,CQRSA,"National currency, current prices, quarterly levels, seasonally adjusted"
+6,VNBARSA,"National currency, constant prices, national base year, annual levels, seasonally adjusted"
+7,VNBQRSA,"National currency, constant prices, national base year, quarterly levels, seasonally adjusted"
+8,CPCARSA,"US dollars, current prices, current PPPs, annual levels, seasonally adjusted"
+9,DNBSA,"Deflator, national base/reference year, seasonally adjusted"
+10,DOBSA,"Deflator, OECD reference year, seasonally adjusted"
+11,GPSA,"Growth rate based on seasonally adjusted volume data, percentage change from previous quarter"
+12,GYSA,"Growth rate based on seasonally adjusted volume data,  percentage change from same quarter of previous year"
+13,VIXOBSA,"Volume index, OECD reference year, seasonally adjusted"
+14,VOBARSA,"National currency, volume estimates, OECD reference year, annual levels, seasonally adjusted"
+15,VPVOBARSA,"US dollars, volume estimates, fixed PPPs, OECD reference year, annual levels, seasonally adjusted"
+16,PER,Persons
+17,HCPCARSA,"Per Head, US $, current prices, current PPPs, seasonally adjusted"
+18,HVPVOBARSA,"Per Head, US dollars, volume estimates, fixed PPPs, OECD reference year, seasonally adjusted"
+19,CD,National currency per US Dollar
+20,PERSA,"Persons, seasonally adjusted"
+21,HRS,Hours worked

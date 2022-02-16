@@ -1,0 +1,10 @@
+,id,name
+0,VIXOBSA,"Volume index, OECD reference year, seasonally adjusted"
+1,GYSA,"Growth rate based on seasonally adjusted volume data,  percentage change from same quarter of previous year"
+2,DOBSA,"Deflator, OECD reference year, seasonally adjusted"
+3,CPCARSA,"US dollars, current prices, current PPPs, annual levels, seasonally adjusted"
+4,GPSA,"Growth rate based on seasonally adjusted volume data, percentage change from previous quarter"
+5,VPVOBARSA,"US dollars, volume estimates, fixed PPPs, OECD reference year, annual levels, seasonally adjusted"
+6,PERSA,"Persons, seasonally adjusted"
+7,HCPCARSA,"Per Head, US $, current prices, current PPPs, seasonally adjusted"
+8,HVPVOBARSA,"Per Head, US dollars, volume estimates, fixed PPPs, OECD reference year, seasonally adjusted"

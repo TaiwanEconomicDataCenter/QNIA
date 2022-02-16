@@ -1,0 +1,70 @@
+,id,name
+0,B1_GE,Gross domestic product - expenditure approach
+1,B1_GI,Gross domestic product - income approach
+2,B1_GS1,Gross domestic product
+3,B2G_B3G,Gross operating surplus and mixed income
+4,B2N_B3N,Net operating surplus and mixed income
+5,B5_GS1,Gross national income at market prices
+6,B5_NS1,Net national income at market prices
+7,B8NS1,Net saving
+8,B9S1,Net lending/net borrowing
+9,D1_D4NFRS2,Net primary incomes from the rest of the world
+10,D1S1,Compensation of employees
+11,D2_D3,Taxes less subsidies on production and imports
+12,D2S1,Taxes on production and imports
+13,D3S1,Subsidies on production and imports
+14,D9NFRS2,Net capital transfers from the rest of the world
+15,GDIS1,Gross domestic income
+16,K1,Consumption of fixed capital
+17,K1MS1,Consumption of fixed capital
+18,K1S1,Consumption of fixed capital
+19,P3,Final consumption expenditure
+20,P3_P5,add. Total domestic demand
+21,P3_P51,add. Final domestic demand
+22,P311B,Durable goods
+23,P313B,Non-durable goods
+24,P314B,Services
+25,P31DC,Households consumption expenditure (Domestic Concept)
+26,P31S14_S15,Private final consumption expenditure
+27,P31S14_S15B,Private final consumption expenditure by durability
+28,P3S1,Final consumption expenditure
+29,P3S13,General government final consumption expenditure
+30,P5,Gross capital formation
+31,P51,Gross fixed capital formation
+32,P51A,Gross fixed capital formation by asset
+33,P51S,GFCF by institutional sector
+34,P51S13,General government
+35,P51S1LESSS13,Non-government
+36,P52,Changes in inventories
+37,P52_P53,Changes in inventories and acquisitions less disposals of valuables
+38,P5S1,Gross capital formation
+39,P6,Exports of goods and services
+40,P61,Exports of goods
+41,P62,Exports of services
+42,P7,Imports of goods and services
+43,P71,Imports of goods
+44,P72,Imports of services
+45,RB1_GE,Residual item
+46,RB1_GI,Residual item
+47,RB9S1,Residual item
+48,RP31DC,Residual item
+49,RP51,Residual item
+50,B11,External balance of goods and services
+51,P51N1111,Dwellings
+52,P51N1112,Other buildings and structures
+53,P51N11131,Transport equipment
+54,P51N112,Intellectual property products
+55,POPNC,Total population
+56,DB1_GE,Statistical discrepancy
+57,PPPGDP,add. Purchasing power parity of GDP
+58,P51N1113,Machinery and equipment+weapon system
+59,P51N1113O,Other machinery and equipment+weapon systems
+60,P51N1113I,ICT equipment
+61,P51N1171G,Research and development
+62,P51N11322G,Telecommunication equipment
+63,P51N11731G,Computer software
+64,P51N1174G,"Entertainment, literary and artistic originals"
+65,P51N11321G,Computer hardware
+66,P31S15,Final consumption expenditure of non-profit institutions serving households
+67,P51N1173G,Computer software and databases
+68,P31S14,Final consumption expenditure of households

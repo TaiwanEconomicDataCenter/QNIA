@@ -1,0 +1,63 @@
+,id,name
+0,B1_GA,Gross domestic product at market prices - output approach
+1,B1_GE,Gross domestic product - expenditure approach
+2,B1_GI,Gross domestic product - income approach
+3,B1G,"Gross value added at basic prices, total activity"
+4,D1S1,Compensation of employees
+5,D21_D31,Taxes less subsidies on products
+6,P3,Final consumption expenditure
+7,P31S14_S15,Private final consumption expenditure
+8,P3S13,General government final consumption expenditure
+9,P5,Gross capital formation
+10,P51,Gross fixed capital formation
+11,P51A,Gross fixed capital formation by asset
+12,P52,Changes in inventories
+13,P52_P53,Changes in inventories and acquisitions less disposals of valuables
+14,P6,Exports of goods and services
+15,P7,Imports of goods and services
+16,RB1_GE,Residual item
+17,B11,External balance of goods and services
+18,P51N1111,Dwellings
+19,B1GVA,"Agriculture, forestry and fishing (ISIC Rev.4)"
+20,B1GVB_E,"Industry, including energy (ISIC Rev.4)"
+21,B1GVC,of which: Manufacturing (ISIC Rev.4)
+22,B1GVF,Construction (ISIC Rev.4)
+23,B1GVG_I,"Distrib. trade, repairs; transp.; accommod., food serv. activ. (ISIC Rev.4)"
+24,B1GVG_U,Services (ISIC Rev.4)
+25,B1GVJ,Information and communication (ISIC Rev.4)
+26,B1GVK,Financial and insurance activities (ISIC Rev.4)
+27,B1GVL,Real estate activities (ISIC Rev.4)
+28,B1GVM_N,"Prof., scientif., techn. activ.; admin., support service activ.(ISIC Rev.4)"
+29,B1GVO_Q,Public admin.; compulsory s.s.; education; human health (ISIC Rev.4)
+30,B1GVR_U,Other service activities (ISIC Rev.4)
+31,POPNC,Total population
+32,PPPGDP,add. Purchasing power parity of GDP
+33,B2G_B3G,Gross operating surplus and mixed income
+34,B2N_B3N,Net operating surplus and mixed income
+35,D1,"Compensation of employees, total"
+36,D2_D3,Taxes less subsidies on production and imports
+37,K1,Consumption of fixed capital
+38,P311B,Durable goods
+39,P312B,Semi-durable goods
+40,P312N,Other goods and services
+41,P313B,Non-durable goods
+42,P314B,Services
+43,P31DC,Households consumption expenditure (Domestic Concept)
+44,P31S14_S15B,Private final consumption expenditure by durability
+45,P51N112,Intellectual property products
+46,D1VA,"Agriculture, forestry and fishing (ISIC Rev.4)"
+47,D1VB_E,"Industry, including energy (ISIC Rev.4)"
+48,D1VC,of which: Manufacturing (ISIC Rev.4)
+49,D1VF,Construction (ISIC Rev.4)
+50,D1VG_I,"Distrib. trade, repairs; transp.; accommod., food serv. activ. (ISIC Rev.4)"
+51,D1VJ,Information and communication (ISIC Rev.4)
+52,D1VK,Financial and insurance activities (ISIC Rev.4)
+53,D1VL,Real estate activities (ISIC Rev.4)
+54,D1VM_N,"Prof., scientif., techn. activ.; admin., support service activ.(ISIC Rev.4)"
+55,D1VO_Q,Public admin.; compulsory s.s.; education; human health (ISIC Rev.4)
+56,D1VR_U,Other service activities (ISIC Rev.4)
+57,P51N1113,Machinery and equipment+weapon system
+58,P3_P5,add. Total domestic demand
+59,P31S15,Final consumption expenditure of non-profit institutions serving households
+60,P31S14,Final consumption expenditure of households
+61,P31NC,Households consumption expenditure (National Concept)

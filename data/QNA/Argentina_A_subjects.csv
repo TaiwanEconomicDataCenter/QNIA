@@ -1,0 +1,32 @@
+,id,name
+0,B1_GE,Gross domestic product - expenditure approach
+1,B1GA_B,"Agriculture, hunting and forestry; fishing"
+2,B1GC_E,"Industry, including energy"
+3,B1GD,Manufacturing
+4,B1GF,Construction
+5,B1GG_I,"Wholesale and retail trade, repairs; hotels and restaurants; transport"
+6,B1GG_P,Services
+7,B1GJ_K,"Financial intermediation; real estate, renting and business activities"
+8,B1GL_P,Other service activities
+9,P3,Final consumption expenditure
+10,P31S14_S15,Private final consumption expenditure
+11,P3S13,General government final consumption expenditure
+12,P5,Gross capital formation
+13,P51,Gross fixed capital formation
+14,P52,Changes in inventories
+15,P52_P53,Changes in inventories and acquisitions less disposals of valuables
+16,P6,Exports of goods and services
+17,P7,Imports of goods and services
+18,RB1_GE,Residual item
+19,B11,External balance of goods and services
+20,DB1_GE,Statistical discrepancy
+21,P51N11131,Transport equipment
+22,P51N112,Intellectual property products
+23,P51A,Gross fixed capital formation by asset
+24,P51N1113,Machinery and equipment+weapon system
+25,PPPGDP,add. Purchasing power parity of GDP
+26,B1GI3,"Gross value added at basic prices, total activity"
+27,B1_GAI3,Gross domestic product at market prices - output approach
+28,D21_D31I3,Taxes less subsidies on products
+29,P51N1111,Dwellings
+30,P53,Acquisitions less disposals of valuables

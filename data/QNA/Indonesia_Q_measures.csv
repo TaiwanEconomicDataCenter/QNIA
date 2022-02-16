@@ -1,0 +1,15 @@
+,id,name
+0,CQR,"National currency, current prices, quarterly levels"
+1,VNBQR,"National currency, constant prices, national base year, quarterly levels"
+2,CARSA,"National currency, current prices, annual levels, seasonally adjusted"
+3,CPCARSA,"US dollars, current prices, current PPPs, annual levels, seasonally adjusted"
+4,CQRSA,"National currency, current prices, quarterly levels, seasonally adjusted"
+5,DNBSA,"Deflator, national base/reference year, seasonally adjusted"
+6,DOBSA,"Deflator, OECD reference year, seasonally adjusted"
+7,GPSA,"Growth rate based on seasonally adjusted volume data, percentage change from previous quarter"
+8,GYSA,"Growth rate based on seasonally adjusted volume data,  percentage change from same quarter of previous year"
+9,VIXOBSA,"Volume index, OECD reference year, seasonally adjusted"
+10,VNBQRSA,"National currency, constant prices, national base year, quarterly levels, seasonally adjusted"
+11,VOBARSA,"National currency, volume estimates, OECD reference year, annual levels, seasonally adjusted"
+12,VPVOBARSA,"US dollars, volume estimates, fixed PPPs, OECD reference year, annual levels, seasonally adjusted"
+13,CD,National currency per US Dollar

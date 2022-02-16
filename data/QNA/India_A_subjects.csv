@@ -1,0 +1,27 @@
+,id,name
+0,B1_GA,Gross domestic product at market prices - output approach
+1,B1_GE,Gross domestic product - expenditure approach
+2,B1G,"Gross value added at basic prices, total activity"
+3,D21_D31,Taxes less subsidies on products
+4,P3,Final consumption expenditure
+5,P31S14_S15,Private final consumption expenditure
+6,P3S13,General government final consumption expenditure
+7,P5,Gross capital formation
+8,P51,Gross fixed capital formation
+9,P52,Changes in inventories
+10,P52_P53,Changes in inventories and acquisitions less disposals of valuables
+11,P53,Acquisitions less disposals of valuables
+12,P6,Exports of goods and services
+13,P7,Imports of goods and services
+14,RB1_GE,Residual item
+15,B11,External balance of goods and services
+16,DB1_GE,Statistical discrepancy
+17,PPPGDP,add. Purchasing power parity of GDP
+18,B1GVC,of which: Manufacturing (ISIC Rev.4)
+19,B1GVL,Real estate activities (ISIC Rev.4)
+20,B1GVB_E,"Industry, including energy (ISIC Rev.4)"
+21,B1GVG_I,"Distrib. trade, repairs; transp.; accommod., food serv. activ. (ISIC Rev.4)"
+22,B1GVA,"Agriculture, forestry and fishing (ISIC Rev.4)"
+23,B1GVF,Construction (ISIC Rev.4)
+24,B1GVO_Q,Public admin.; compulsory s.s.; education; human health (ISIC Rev.4)
+25,B1GVG_U,Services (ISIC Rev.4)

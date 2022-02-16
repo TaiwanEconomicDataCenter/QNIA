@@ -1,0 +1,69 @@
+location,Country_Name,Country_Code
+USA,United States,111
+GBR,United Kingdom,112
+NAFTA,NAFTA,121
+AUT,Austria,122
+BEL,Belgium,124
+LUX,Luxembourg,126
+DNK,Denmark,128
+FRA,France,132
+DEW,Western Germany,134
+DEU,Germany,134
+ITA,Italy,136
+NLD,Netherlands,138
+NOR,Norway,142
+SWE,Sweden,144
+CHE,Switzerland,146
+CAN,Canada,156
+JPN,Japan,158
+FIN,Finland,172
+GRC,Greece,174
+ISL,Iceland,176
+IRL,Ireland,178
+MLT,Malta,181
+PRT,Portugal,182
+ESP,Spain,184
+TUR,Turkey,186
+AUS,Australia,193
+NZL,New Zealand,196
+ZAF,South Africa,199
+ARG,Argentina,213
+BRA,Brazil,223
+CHL,Chile,228
+COL,Colombia,233
+CRI,Costa Rica,238
+BRIICS,"BRIICS economies - Brazil, Russia, India, Indonesia, China and South Africa",259
+MEX,Mexico,273
+CYP,Cyprus,423
+ISR,Israel,436
+SAU,Saudi Arabia,456
+IND,India,534
+IDN,Indonesia,536
+KOR,Korea,542
+A5M,Five Major Asia,555
+G4E,Big 4 Europe,704
+EU15,European Union (15 countries),715
+EA19,Euro area,163
+EU27_2020,European Union ¡V 27 countries (from 01/02/2020),727
+EU28,European Union (28 countries),728
+OXE,OECD total excluding the euro area,903
+G-7,G7,907
+BGR,Bulgaria,918
+SDR,SDR,919
+G-20,G20,920
+RUS,Russia,922
+CHN,China,924
+IKR,Ukraine,926
+OECDE,OECD - Europe,930
+CZE,Czech Republic,935
+SVK,Slovak Republic,936
+EST,Estonia,939
+LVA,Latvia,941
+HUN,Hungary,944
+LTU,Lithuania,946
+OECD,OECD - Total,950
+SVN,Slovenia,961
+POL,Poland,964
+ROU,Romania,968
+OTF,OECD - FORMER TOTAL,990
+ONM,OECD + Major Six NME,996

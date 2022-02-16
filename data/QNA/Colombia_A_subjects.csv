@@ -1,0 +1,46 @@
+,id,name
+0,P31S14_S15,Private final consumption expenditure
+1,P51A,Gross fixed capital formation by asset
+2,B1_GE,Gross domestic product - expenditure approach
+3,P7,Imports of goods and services
+4,B1G,"Gross value added at basic prices, total activity"
+5,P51N1112,Other buildings and structures
+6,P6,Exports of goods and services
+7,P3S13,General government final consumption expenditure
+8,P51,Gross fixed capital formation
+9,P31DC,Households consumption expenditure (Domestic Concept)
+10,B1_GA,Gross domestic product at market prices - output approach
+11,P51N1111,Dwellings
+12,RB1_GE,Residual item
+13,P311B,Durable goods
+14,P313B,Non-durable goods
+15,P3,Final consumption expenditure
+16,P31S14_S15B,Private final consumption expenditure by durability
+17,P314B,Services
+18,B11,External balance of goods and services
+19,D21_D31,Taxes less subsidies on products
+20,P5,Gross capital formation
+21,P312B,Semi-durable goods
+22,PPPGDP,add. Purchasing power parity of GDP
+23,P3_P5,add. Total domestic demand
+24,B1GVA,"Agriculture, forestry and fishing (ISIC Rev.4)"
+25,B1GVB_E,"Industry, including energy (ISIC Rev.4)"
+26,B1GVC,of which: Manufacturing (ISIC Rev.4)
+27,B1GVF,Construction (ISIC Rev.4)
+28,B1GVG_I,"Distrib. trade, repairs; transp.; accommod., food serv. activ. (ISIC Rev.4)"
+29,B1GVG_U,Services (ISIC Rev.4)
+30,B1GVJ,Information and communication (ISIC Rev.4)
+31,B1GVK,Financial and insurance activities (ISIC Rev.4)
+32,B1GVL,Real estate activities (ISIC Rev.4)
+33,B1GVM_N,"Prof., scientif., techn. activ.; admin., support service activ.(ISIC Rev.4)"
+34,B1GVO_Q,Public admin.; compulsory s.s.; education; human health (ISIC Rev.4)
+35,B1GVR_U,Other service activities (ISIC Rev.4)
+36,RB1_GA,Residual item
+37,P51N112,Intellectual property products
+38,P51N1113,Machinery and equipment+weapon system
+39,P51N1114,Cultivated biological resources
+40,POPNC,Total population
+41,EEMNC,Employees
+42,ESENC,Self-employed
+43,ETONC,Total employment
+44,P3_P6,add. Total demand

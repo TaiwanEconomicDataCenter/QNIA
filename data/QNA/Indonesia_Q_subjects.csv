@@ -1,0 +1,48 @@
+,id,name
+0,B1_GA,Gross domestic product at market prices - output approach
+1,B1_GE,Gross domestic product - expenditure approach
+2,B1G,"Gross value added at basic prices, total activity"
+3,P3,Final consumption expenditure
+4,P31S14_S15,Private final consumption expenditure
+5,P3S13,General government final consumption expenditure
+6,P5,Gross capital formation
+7,P51,Gross fixed capital formation
+8,P52,Changes in inventories
+9,P52_P53,Changes in inventories and acquisitions less disposals of valuables
+10,P6,Exports of goods and services
+11,P61,Exports of goods
+12,P62,Exports of services
+13,P7,Imports of goods and services
+14,P71,Imports of goods
+15,P72,Imports of services
+16,RB1_GE,Residual item
+17,B11,External balance of goods and services
+18,DB1_GE,Statistical discrepancy
+19,B1GVR_U,Other service activities (ISIC Rev.4)
+20,P31S14,Final consumption expenditure of households
+21,B1GVG_I,"Distrib. trade, repairs; transp.; accommod., food serv. activ. (ISIC Rev.4)"
+22,B1GVK,Financial and insurance activities (ISIC Rev.4)
+23,B1GVO_Q,Public admin.; compulsory s.s.; education; human health (ISIC Rev.4)
+24,B1GVA,"Agriculture, forestry and fishing (ISIC Rev.4)"
+25,B1GVB_E,"Industry, including energy (ISIC Rev.4)"
+26,B1GVC,of which: Manufacturing (ISIC Rev.4)
+27,B1GVG_U,Services (ISIC Rev.4)
+28,B1GVL,Real estate activities (ISIC Rev.4)
+29,D21_D31,Taxes less subsidies on products
+30,P31S15,Final consumption expenditure of non-profit institutions serving households
+31,RB1_GA,Residual item
+32,B1GVF,Construction (ISIC Rev.4)
+33,B1GVJ,Information and communication (ISIC Rev.4)
+34,B1GVM_N,"Prof., scientif., techn. activ.; admin., support service activ.(ISIC Rev.4)"
+35,P51N1113O,Other machinery and equipment+weapon systems
+36,P51N11131,Transport equipment
+37,P51N112,Intellectual property products
+38,P51N1111,Dwellings
+39,P51N1113I,ICT equipment
+40,P31S13,Individual consumption expenditure of general government
+41,P51N1113,Machinery and equipment+weapon system
+42,P32S13,Collective consumption expenditure of general government
+43,P41,add. Actual individual consumption
+44,P51N1114,Cultivated biological resources
+45,P51A,Gross fixed capital formation by asset
+46,PPPGDP,add. Purchasing power parity of GDP

@@ -1,0 +1,146 @@
+,id,name
+0,P31S15,Final consumption expenditure of non-profit institutions serving households
+1,D11VF,Construction (ISIC Rev.4)
+2,ESEVG_I,"Distrib. trade, repairs; transp.; accommod., food serv. activ. (ISIC Rev.4)"
+3,ESEVF,Construction (ISIC Rev.4)
+4,B1GVG_U,Services (ISIC Rev.4)
+5,EEMVO_Q,Public admin.; compulsory s.s.; education; human health (ISIC Rev.4)
+6,P71,Imports of goods
+7,B1_GA,Gross domestic product at market prices - output approach
+8,P31S14,Final consumption expenditure of households
+9,D11VK,Financial and insurance activities (ISIC Rev.4)
+10,P31S14_S15,Private final consumption expenditure
+11,ESEVB_E,"Industry, including energy (ISIC Rev.4)"
+12,B1GVC,of which: Manufacturing (ISIC Rev.4)
+13,ESEVK,Financial and insurance activities (ISIC Rev.4)
+14,P51,Gross fixed capital formation
+15,D1,"Compensation of employees, total"
+16,P311B,Durable goods
+17,ESEVO_Q,Public admin.; compulsory s.s.; education; human health (ISIC Rev.4)
+18,D11VO_Q,Public admin.; compulsory s.s.; education; human health (ISIC Rev.4)
+19,P52_P53,Changes in inventories and acquisitions less disposals of valuables
+20,B1GVO_Q,Public admin.; compulsory s.s.; education; human health (ISIC Rev.4)
+21,ETOVM_N,"Prof., scientif., techn. activ.; admin., support service activ.(ISIC Rev.4)"
+22,P313B,Non-durable goods
+23,P6,Exports of goods and services
+24,P3S13,General government final consumption expenditure
+25,ETOVB_E,"Industry, including energy (ISIC Rev.4)"
+26,D12VB_E,"Industry, including energy (ISIC Rev.4)"
+27,D1VB_E,"Industry, including energy (ISIC Rev.4)"
+28,RB1_GE,Residual item
+29,EEMVC,of which: Manufacturing (ISIC Rev.4)
+30,B1_GE,Gross domestic product - expenditure approach
+31,B1G,"Gross value added at basic prices, total activity"
+32,B1GVF,Construction (ISIC Rev.4)
+33,ESEVA,"Agriculture, forestry and fishing (ISIC Rev.4)"
+34,P7,Imports of goods and services
+35,P3,Final consumption expenditure
+36,B1GVJ,Information and communication (ISIC Rev.4)
+37,EEMVJ,Information and communication (ISIC Rev.4)
+38,ETO,"Employment, total"
+39,RB1_GI,Residual item
+40,P5,Gross capital formation
+41,ESEVC,of which: Manufacturing (ISIC Rev.4)
+42,P314B,Services
+43,D12,"Employers' social contributions, total"
+44,EEMVR_U,Other service activities (ISIC Rev.4)
+45,P312B,Semi-durable goods
+46,D12VC,of which: Manufacturing (ISIC Rev.4)
+47,B1GVR_U,Other service activities (ISIC Rev.4)
+48,ESEVM_N,"Prof., scientif., techn. activ.; admin., support service activ.(ISIC Rev.4)"
+49,P31S13,Individual consumption expenditure of general government
+50,ESEVJ,Information and communication (ISIC Rev.4)
+51,EEMVL,Real estate activities (ISIC Rev.4)
+52,EEM,"Employees, total"
+53,D11VC,of which: Manufacturing (ISIC Rev.4)
+54,P52,Changes in inventories
+55,D12VM_N,"Prof., scientific, techn. Act.; admin., support service act. (ISIC Rev.4)"
+56,D11VJ,Information and communication (ISIC Rev.4)
+57,P31S14_S15B,Private final consumption expenditure by durability
+58,D12VJ,Information and communication (ISIC Rev.4)
+59,D21_D31,Taxes less subsidies on products
+60,EEMVG_I,"Distrib. trade, repairs; transp.; accommod., food serv. activ. (ISIC Rev.4)"
+61,P32S13,Collective consumption expenditure of general government
+62,D31S1,Subsidies on products
+63,EEMVK,Financial and insurance activities (ISIC Rev.4)
+64,P31NC,Households consumption expenditure (National Concept)
+65,D11VB_E,"Industry, including energy (ISIC Rev.4)"
+66,P41,add. Actual individual consumption
+67,ETOVA,"Agriculture, forestry and fishing (ISIC Rev.4)"
+68,D1S1,Compensation of employees
+69,D1VM_N,"Prof., scientif., techn. activ.; admin., support service activ.(ISIC Rev.4)"
+70,ETOVR_U,Other service activities (ISIC Rev.4)
+71,P61,Exports of goods
+72,B2G_B3G,Gross operating surplus and mixed income
+73,D1VJ,Information and communication (ISIC Rev.4)
+74,ETOVJ,Information and communication (ISIC Rev.4)
+75,B1GVL,Real estate activities (ISIC Rev.4)
+76,EEMVF,Construction (ISIC Rev.4)
+77,B1GVG_I,"Distrib. trade, repairs; transp.; accommod., food serv. activ. (ISIC Rev.4)"
+78,ETOVG_I,"Distrib. trade, repairs; transp.; accommod., food serv. activ. (ISIC Rev.4)"
+79,D1VG_I,"Distrib. trade, repairs; transp.; accommod., food serv. activ. (ISIC Rev.4)"
+80,D21S1,Taxes on products
+81,D12VG_I,"Distr. Trade, repairs; transport; accommod., food serv. Act. (ISIC Rev.4)"
+82,B1GVB_E,"Industry, including energy (ISIC Rev.4)"
+83,D3S1,Subsidies on production and imports
+84,ETOVL,Real estate activities (ISIC Rev.4)
+85,ESENC,Self-employed
+86,EEMVA,"Agriculture, forestry and fishing (ISIC Rev.4)"
+87,RB1_GA,Residual item
+88,D12VL,Real estate activities (ISIC Rev.4)
+89,D1VL,Real estate activities (ISIC Rev.4)
+90,P62,Exports of services
+91,ESE,"Self-employed, total"
+92,P51A,Gross fixed capital formation by asset
+93,EEMNC,Employees
+94,D1VR_U,Other service activities (ISIC Rev.4)
+95,ETOVO_Q,Public admin.; compulsory s.s.; education; human health (ISIC Rev.4)
+96,B1GVK,Financial and insurance activities (ISIC Rev.4)
+97,D12VR_U,Other service activities (ISIC Rev.4)
+98,D11,"Wages and salaries, total"
+99,P72,Imports of services
+100,D11VG_I,"Distrib. trade, repairs; transp.; accommod., food serv. activ. (ISIC Rev.4)"
+101,D2_D3,Taxes less subsidies on production and imports
+102,EEMVB_E,"Industry, including energy (ISIC Rev.4)"
+103,B1_GI,Gross domestic product - income approach
+104,D2S1,Taxes on production and imports
+105,P53,Acquisitions less disposals of valuables
+106,DB1_GA,Statistical discrepancy
+107,POPNC,Total population
+108,B1GVA,"Agriculture, forestry and fishing (ISIC Rev.4)"
+109,D12VA,"Agriculture, forestry and fishing (ISIC Rev.4)"
+110,D1VA,"Agriculture, forestry and fishing (ISIC Rev.4)"
+111,B1GVM_N,"Prof., scientif., techn. activ.; admin., support service activ.(ISIC Rev.4)"
+112,EEMVM_N,"Prof., scientif., techn. activ.; admin., support service activ.(ISIC Rev.4)"
+113,P312N,Other goods and services
+114,D1VO_Q,Public admin.; compulsory s.s.; education; human health (ISIC Rev.4)
+115,P31DC,Households consumption expenditure (Domestic Concept)
+116,DB1_GE,Statistical discrepancy
+117,ETOVF,Construction (ISIC Rev.4)
+118,ETOVC,of which: Manufacturing (ISIC Rev.4)
+119,ESEVR_U,Other service activities (ISIC Rev.4)
+120,ESEVL,Real estate activities (ISIC Rev.4)
+121,ETOVK,Financial and insurance activities (ISIC Rev.4)
+122,ETONC,Total employment
+123,D12VF,Construction (ISIC Rev.4)
+124,P31S15B,Final consumption expenditure of non-profit institutions serving households
+125,D11VA,"Agriculture, forestry and fishing (ISIC Rev.4)"
+126,D12VK,Financial and insurance activities (ISIC Rev.4)
+127,D12VO_Q,Public admin.; compulsory s.s.; education; human health (ISIC Rev.4)
+128,B11,External balance of goods and services
+129,D1VK,Financial and insurance activities (ISIC Rev.4)
+130,D1VF,Construction (ISIC Rev.4)
+131,PPPGDP,add. Purchasing power parity of GDP
+132,D11VL,Real estate activities (ISIC Rev.4)
+133,D11VR_U,Other service activities (ISIC Rev.4)
+134,D1VC,of which: Manufacturing (ISIC Rev.4)
+135,D11VM_N,"Prof., scientif., techn. activ.; admin., support service activ.(ISIC Rev.4)"
+136,P51N1111,Dwellings
+137,P51N1112,Other buildings and structures
+138,P51N11131,Transport equipment
+139,P51N1114,Cultivated biological resources
+140,P51N112,Intellectual property products
+141,P51N1113,Machinery and equipment+weapon system
+142,P51N1113I,ICT equipment
+143,P51N1113O,Other machinery and equipment+weapon systems
+144,B1_GS1,Gross domestic product
