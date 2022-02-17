@@ -356,7 +356,10 @@ for dataset in dataset_list:
                 if measures['id'][m] not in list(measure_file.index):
                     unknown_measures.append(measures['id'][m])
                 measures_list[measures['id'][m]] = measures['name'][m]
-            nG = QNIA_t.shape[1]
+            if QNIA_t.empty:
+                nG = 0
+            else:
+                nG = QNIA_t.shape[1]
             if not not unknown_subjects or not not unknown_measures:
                 #logging.info('unknown_subjects: '+str(unknown_subjects))
                 #logging.info('unknown_measures: '+str(unknown_measures))
