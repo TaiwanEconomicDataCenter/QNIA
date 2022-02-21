@@ -206,7 +206,6 @@ while data_processing == False:
         df_key, DATA_BASE_dict = UPDATE(merge_file, main_file, key_list, NAME, out_path, merge_suf, main_suf, original_database=merge_database, updated_database=main_database)
     merge_file_loaded = True
     while True:
-        print(merge_database['DB_A_0001'])
         try:
             continuing = bool(int(input('Merge or Update Another File With the Same Original File (1/0): ')))
         except:
@@ -445,13 +444,6 @@ else:
             sys.stdout.flush()
             if DATA_BASE_dict[d].empty == False:
                 DATA_BASE_dict[d].to_excel(writer, sheet_name = d)
-        """else:
-            for f in FREQNAME:
-                for d in DATA_BASE_dict[f]:
-                    sys.stdout.write("\rOutputing sheet: "+str(d))
-                    sys.stdout.flush()
-                    if DATA_BASE_dict[f][d].empty == False:
-                        DATA_BASE_dict[f][d].to_excel(writer, sheet_name = d)"""
     sys.stdout.write("\n")
 
 print('Time: '+str(int(time.time() - tStart))+' s'+'\n')

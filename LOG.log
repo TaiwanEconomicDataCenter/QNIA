@@ -1,50 +1,8 @@
-﻿2022-02-15 03:37:03 PM excel_suffix: mysql
+﻿2022-02-21 05:05:56 PM excel_suffix: mysql
 
-2022-02-15 03:37:03 PM data_processing: False
+2022-02-21 05:05:56 PM data_processing: False
 
-2022-02-15 03:37:03 PM find_unknown: False
+2022-02-21 05:05:56 PM find_unknown: False
 
-2022-02-15 03:37:03 PM dealing_start_year: 1947
+2022-02-21 05:05:56 PM dealing_start_year: 1947
 
-2022-02-15 03:37:35 PM Process: File Merging
-
-2022-02-15 03:37:35 PM Reading main key: QNIA_keyNEW.xlsx, Time: 31 s
-
-2022-02-15 03:37:35 PM Reading main database: QNIA_databaseNEW.xlsx, Time: 32 s
-
-2022-02-15 03:37:36 PM Merging File, Time: 32 s
-
-2022-02-15 03:37:38 PM Setting files, Time: 34 s
-
-2022-02-15 03:37:38 PM Concating file: QNIA_key?, Time: 34 s
-
-2022-02-15 03:37:38 PM Concating file: QNIA_database?, Time: 34 s
-
-2022-02-15 03:38:02 PM Setting new files, Time: 58 s
-
-2022-02-15 03:43:21 PM Concating new files: QNIA_database, Time: 378 s
-
-2022-02-15 03:43:36 PM Process: File Updating
-
-2022-02-15 03:43:36 PM Reading main key: QNIA_keyUP.xlsx, Time: 392 s
-
-2022-02-15 03:43:48 PM Reading main database: QNIA_databaseUP.xlsx, Time: 404 s
-
-2022-02-15 03:44:49 PM Updating file: 0 s
-
-2022-02-15 04:10:48 PM updated: 6410
-
-2022-02-15 04:12:11 PM       databank            name   db_table  db_code                                             desc_e           desc_c  ...                   unit name_ord    snl                 book                                         form_e  form_c
-0         QNIA    A111B11CAR.a  DB_A_0001  data001  External balance of goods and services, Nation...           B11CAR  ...  Millions of US Dollar      USA      1        United States  Gross domestic product - expenditure approach     NaN
-1         QNIA    A111B11CAS.a  DB_A_0001  data002  External balance of goods and services, Nation...         B11CARSA  ...  Millions of US Dollar      USA      2        United States  Gross domestic product - expenditure approach     NaN
-2         QNIA    A111B11CQR.a  DB_A_0001  data003  External balance of goods and services, Nation...           B11CQR  ...  Millions of US Dollar      USA      3        United States  Gross domestic product - expenditure approach     NaN
-3         QNIA    A111B11CQS.a  DB_A_0001  data004  External balance of goods and services, Nation...         B11CQRSA  ...  Millions of US Dollar      USA      4        United States  Gross domestic product - expenditure approach     NaN
-4         QNIA    A111B11LNQ.a  DB_A_0001  data005  External balance of goods and services, Nation...         B11LNBQR  ...  Millions of US Dollar      USA      5        United States  Gross domestic product - expenditure approach    2012
-...        ...             ...        ...      ...                                                ...              ...  ...                    ...      ...    ...                  ...                                            ...     ...
-45011     QNIA     Q990P7GYS.q  DB_Q_0113  data140  Imports of goods and services, Growth rate bas...           P7GYSA  ...    Units of Percentage      OTF  45012  OECD - FORMER TOTAL  Gross domestic product - expenditure approach     NaN
-45012     QNIA     Q990P7VIO.q  DB_Q_0113  data141  Imports of goods and services, Volume index, O...        P7VIXOBSA  ...         Units of Index      OTF  45013  OECD - FORMER TOTAL  Gross domestic product - expenditure approach    2015
-45013     QNIA     Q990P7VPS.q  DB_Q_0113  data142  Imports of goods and services, US dollars, vol...      P7VPVOBARSA  ...  Millions of US Dollar      OTF  45014  OECD - FORMER TOTAL  Gross domestic product - expenditure approach    2015
-45014     QNIA  Q990RB1GECPS.q  DB_Q_0113  data143  Residual item, US dollars, current prices, cur...    RB1_GECPCARSA  ...  Millions of US Dollar      OTF  45015  OECD - FORMER TOTAL  Gross domestic product - expenditure approach     NaN
-45015     QNIA  Q990RB1GEVPS.q  DB_Q_0113  data144  Residual item, US dollars, volume estimates, f...  RB1_GEVPVOBARSA  ...  Millions of US Dollar      OTF  45016  OECD - FORMER TOTAL  Gross domestic product - expenditure approach    2015
-
-[45016 rows x 15 columns]
