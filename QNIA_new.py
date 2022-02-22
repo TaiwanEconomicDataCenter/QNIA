@@ -322,7 +322,7 @@ if data_processing:
     new_item_counts = 0
 
 for dataset in dataset_list:
-    if main_file.empty == False:
+    if data_processing == False:
         break
     for coun in c_list:
         for frequency in frequency_list:
