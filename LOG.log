@@ -1,176 +1,798 @@
-﻿2022-03-22 11:54:42 AM excel_suffix: NEW
+﻿2022-03-22 12:32:10 PM excel_suffix: NEW
 
-2022-03-22 11:54:42 AM data_processing: True
+2022-03-22 12:32:10 PM data_processing: True
 
-2022-03-22 11:54:42 AM find_unknown: False
+2022-03-22 12:32:10 PM find_unknown: False
 
-2022-03-22 11:54:42 AM dealing_start_year: 1947
+2022-03-22 12:32:10 PM dealing_start_year: 1947
 
-2022-03-22 11:54:46 AM Data Processing
+2022-03-22 12:32:11 PM Data Processing
 
-2022-03-22 11:54:48 AM Getting data: dataset_name = QNA, country = Five Major Asia, frequency = A Time: 5 s
+2022-03-22 12:32:12 PM Getting data: dataset_name = QNA, country = Five Major Asia, frequency = A Time: 2 s
 
-2022-03-22 11:54:50 AM Total New Items Found: 0 Time: 7 s
+2022-03-22 12:32:12 PM Present File Exists. Reading Data From Default Path.
 
-2022-03-22 11:54:50 AM Getting data: dataset_name = QNA, country = Five Major Asia, frequency = Q Time: 7 s
+2022-03-22 12:32:12 PM Total New Items Found: 0 Time: 2 s
 
-2022-03-22 11:54:51 AM Total New Items Found: 0 Time: 8 s
+2022-03-22 12:32:12 PM Getting data: dataset_name = QNA, country = Five Major Asia, frequency = Q Time: 2 s
 
-2022-03-22 11:54:51 AM Getting data: dataset_name = QNA, country = Argentina, frequency = A Time: 8 s
+2022-03-22 12:32:12 PM Present File Exists. Reading Data From Default Path.
 
-2022-03-22 11:54:54 AM Total New Items Found: 0 Time: 11 s
+2022-03-22 12:32:12 PM Total New Items Found: 0 Time: 2 s
 
-2022-03-22 11:54:54 AM Getting data: dataset_name = QNA, country = Argentina, frequency = Q Time: 11 s
+2022-03-22 12:32:12 PM Getting data: dataset_name = QNA, country = Argentina, frequency = A Time: 2 s
 
-2022-03-22 11:55:00 AM Total New Items Found: 0 Time: 17 s
+2022-03-22 12:32:12 PM Present File Exists. Reading Data From Default Path.
 
-2022-03-22 11:55:00 AM Getting data: dataset_name = QNA, country = Australia, frequency = A Time: 17 s
+2022-03-22 12:32:12 PM Total New Items Found: 0 Time: 2 s
 
-2022-03-22 11:55:06 AM Total New Items Found: 0 Time: 23 s
+2022-03-22 12:32:12 PM Getting data: dataset_name = QNA, country = Argentina, frequency = Q Time: 2 s
 
-2022-03-22 11:55:06 AM Getting data: dataset_name = QNA, country = Australia, frequency = Q Time: 23 s
+2022-03-22 12:32:12 PM Present File Exists. Reading Data From Default Path.
 
-2022-03-22 11:55:30 AM Total New Items Found: 0 Time: 47 s
+2022-03-22 12:32:13 PM Total New Items Found: 0 Time: 2 s
 
-2022-03-22 11:55:30 AM Getting data: dataset_name = QNA, country = Austria, frequency = A Time: 47 s
+2022-03-22 12:32:13 PM Getting data: dataset_name = QNA, country = Australia, frequency = A Time: 2 s
 
-2022-03-22 11:55:36 AM Total New Items Found: 0 Time: 53 s
+2022-03-22 12:32:13 PM Present File Exists. Reading Data From Default Path.
 
-2022-03-22 11:55:36 AM Getting data: dataset_name = QNA, country = Austria, frequency = Q Time: 53 s
+2022-03-22 12:32:13 PM Total New Items Found: 0 Time: 2 s
 
-2022-03-22 11:55:59 AM Total New Items Found: 0 Time: 76 s
+2022-03-22 12:32:13 PM Getting data: dataset_name = QNA, country = Australia, frequency = Q Time: 2 s
 
-2022-03-22 11:55:59 AM Getting data: dataset_name = QNA, country = Belgium, frequency = A Time: 76 s
+2022-03-22 12:32:13 PM Present File Exists. Reading Data From Default Path.
 
-2022-03-22 11:56:04 AM Total New Items Found: 0 Time: 81 s
+2022-03-22 12:32:13 PM Total New Items Found: 0 Time: 2 s
 
-2022-03-22 11:56:04 AM Getting data: dataset_name = QNA, country = Belgium, frequency = Q Time: 81 s
+2022-03-22 12:32:13 PM Getting data: dataset_name = QNA, country = Austria, frequency = A Time: 2 s
 
-2022-03-22 11:56:21 AM Total New Items Found: 0 Time: 98 s
+2022-03-22 12:32:13 PM Present File Exists. Reading Data From Default Path.
 
-2022-03-22 11:56:21 AM Getting data: dataset_name = QNA, country = Bulgaria, frequency = A Time: 98 s
+2022-03-22 12:32:13 PM Total New Items Found: 0 Time: 3 s
 
-2022-03-22 11:56:27 AM Total New Items Found: 0 Time: 104 s
+2022-03-22 12:32:13 PM Getting data: dataset_name = QNA, country = Austria, frequency = Q Time: 3 s
 
-2022-03-22 11:56:27 AM Getting data: dataset_name = QNA, country = Bulgaria, frequency = Q Time: 104 s
+2022-03-22 12:32:13 PM Present File Exists. Reading Data From Default Path.
 
-2022-03-22 11:56:44 AM Total New Items Found: 0 Time: 121 s
+2022-03-22 12:32:13 PM Total New Items Found: 0 Time: 3 s
 
-2022-03-22 11:56:44 AM Getting data: dataset_name = QNA, country = Brazil, frequency = A Time: 121 s
+2022-03-22 12:32:13 PM Getting data: dataset_name = QNA, country = Belgium, frequency = A Time: 3 s
 
-2022-03-22 11:56:47 AM Total New Items Found: 0 Time: 124 s
+2022-03-22 12:32:13 PM Present File Exists. Reading Data From Default Path.
 
-2022-03-22 11:56:47 AM Getting data: dataset_name = QNA, country = Brazil, frequency = Q Time: 124 s
+2022-03-22 12:32:13 PM Total New Items Found: 0 Time: 3 s
 
-2022-03-22 11:56:53 AM Total New Items Found: 0 Time: 130 s
+2022-03-22 12:32:13 PM Getting data: dataset_name = QNA, country = Belgium, frequency = Q Time: 3 s
 
-2022-03-22 11:56:53 AM Getting data: dataset_name = QNA, country = BRIICS economies - Brazil, Russia, India, Indonesia, China and South Africa, frequency = A Time: 130 s
+2022-03-22 12:32:13 PM Present File Exists. Reading Data From Default Path.
 
-2022-03-22 11:56:54 AM Total New Items Found: 0 Time: 131 s
+2022-03-22 12:32:13 PM Total New Items Found: 0 Time: 3 s
 
-2022-03-22 11:56:54 AM Getting data: dataset_name = QNA, country = BRIICS economies - Brazil, Russia, India, Indonesia, China and South Africa, frequency = Q Time: 131 s
+2022-03-22 12:32:13 PM Getting data: dataset_name = QNA, country = Bulgaria, frequency = A Time: 3 s
 
-2022-03-22 11:56:55 AM Total New Items Found: 0 Time: 132 s
+2022-03-22 12:32:13 PM Present File Exists. Reading Data From Default Path.
 
-2022-03-22 11:56:55 AM Getting data: dataset_name = QNA, country = Canada, frequency = A Time: 132 s
+2022-03-22 12:32:14 PM Total New Items Found: 0 Time: 3 s
 
-2022-03-22 11:57:02 AM Total New Items Found: 0 Time: 140 s
+2022-03-22 12:32:14 PM Getting data: dataset_name = QNA, country = Bulgaria, frequency = Q Time: 3 s
 
-2022-03-22 11:57:02 AM Getting data: dataset_name = QNA, country = Canada, frequency = Q Time: 140 s
+2022-03-22 12:32:14 PM Present File Exists. Reading Data From Default Path.
 
-2022-03-22 11:57:31 AM Total New Items Found: 0 Time: 168 s
+2022-03-22 12:32:14 PM Total New Items Found: 0 Time: 3 s
 
-2022-03-22 11:57:31 AM Getting data: dataset_name = QNA, country = Switzerland, frequency = A Time: 168 s
+2022-03-22 12:32:14 PM Getting data: dataset_name = QNA, country = Brazil, frequency = A Time: 3 s
 
-2022-03-22 11:57:35 AM Total New Items Found: 0 Time: 172 s
+2022-03-22 12:32:14 PM Present File Exists. Reading Data From Default Path.
 
-2022-03-22 11:57:35 AM Getting data: dataset_name = QNA, country = Switzerland, frequency = Q Time: 172 s
+2022-03-22 12:32:14 PM Total New Items Found: 0 Time: 3 s
 
-2022-03-22 11:57:48 AM Total New Items Found: 0 Time: 185 s
+2022-03-22 12:32:14 PM Getting data: dataset_name = QNA, country = Brazil, frequency = Q Time: 3 s
 
-2022-03-22 11:57:48 AM Getting data: dataset_name = QNA, country = Chile, frequency = A Time: 185 s
+2022-03-22 12:32:14 PM Present File Exists. Reading Data From Default Path.
 
-2022-03-22 11:57:51 AM Total New Items Found: 0 Time: 188 s
+2022-03-22 12:32:14 PM Total New Items Found: 0 Time: 4 s
 
-2022-03-22 11:57:51 AM Getting data: dataset_name = QNA, country = Chile, frequency = Q Time: 188 s
+2022-03-22 12:32:14 PM Getting data: dataset_name = QNA, country = BRIICS economies - Brazil, Russia, India, Indonesia, China and South Africa, frequency = A Time: 4 s
 
-2022-03-22 11:57:57 AM Total New Items Found: 0 Time: 194 s
+2022-03-22 12:32:14 PM Present File Exists. Reading Data From Default Path.
 
-2022-03-22 11:57:57 AM Getting data: dataset_name = QNA, country = China, frequency = A Time: 194 s
+2022-03-22 12:32:14 PM Total New Items Found: 0 Time: 4 s
 
-2022-03-22 11:57:59 AM Total New Items Found: 0 Time: 196 s
+2022-03-22 12:32:14 PM Getting data: dataset_name = QNA, country = BRIICS economies - Brazil, Russia, India, Indonesia, China and South Africa, frequency = Q Time: 4 s
 
-2022-03-22 11:57:59 AM Getting data: dataset_name = QNA, country = China, frequency = Q Time: 196 s
+2022-03-22 12:32:14 PM Present File Exists. Reading Data From Default Path.
 
-2022-03-22 11:58:01 AM Total New Items Found: 0 Time: 198 s
+2022-03-22 12:32:14 PM Total New Items Found: 0 Time: 4 s
 
-2022-03-22 11:58:01 AM Getting data: dataset_name = QNA, country = Colombia, frequency = A Time: 198 s
+2022-03-22 12:32:14 PM Getting data: dataset_name = QNA, country = Canada, frequency = A Time: 4 s
 
-2022-03-22 11:58:03 AM Total New Items Found: 0 Time: 200 s
+2022-03-22 12:32:14 PM Present File Exists. Reading Data From Default Path.
 
-2022-03-22 11:58:03 AM Getting data: dataset_name = QNA, country = Colombia, frequency = Q Time: 200 s
+2022-03-22 12:32:14 PM Total New Items Found: 0 Time: 4 s
 
-2022-03-22 11:58:09 AM Total New Items Found: 0 Time: 206 s
+2022-03-22 12:32:14 PM Getting data: dataset_name = QNA, country = Canada, frequency = Q Time: 4 s
 
-2022-03-22 11:58:09 AM Getting data: dataset_name = QNA, country = Costa Rica, frequency = A Time: 206 s
+2022-03-22 12:32:14 PM Present File Exists. Reading Data From Default Path.
 
-2022-03-22 11:58:13 AM Total New Items Found: 0 Time: 210 s
+2022-03-22 12:32:14 PM Total New Items Found: 0 Time: 4 s
 
-2022-03-22 11:58:13 AM Getting data: dataset_name = QNA, country = Costa Rica, frequency = Q Time: 210 s
+2022-03-22 12:32:14 PM Getting data: dataset_name = QNA, country = Switzerland, frequency = A Time: 4 s
 
-2022-03-22 11:58:26 AM Total New Items Found: 0 Time: 223 s
+2022-03-22 12:32:14 PM Present File Exists. Reading Data From Default Path.
 
-2022-03-22 11:58:26 AM Getting data: dataset_name = QNA, country = Cyprus, frequency = A Time: 223 s
+2022-03-22 12:32:14 PM Total New Items Found: 0 Time: 4 s
 
-2022-03-22 11:58:28 AM Total New Items Found: 0 Time: 225 s
+2022-03-22 12:32:14 PM Getting data: dataset_name = QNA, country = Switzerland, frequency = Q Time: 4 s
 
-2022-03-22 11:58:28 AM Getting data: dataset_name = QNA, country = Cyprus, frequency = Q Time: 225 s
+2022-03-22 12:32:14 PM Present File Exists. Reading Data From Default Path.
 
-2022-03-22 11:58:29 AM Total New Items Found: 0 Time: 226 s
+2022-03-22 12:32:14 PM Total New Items Found: 0 Time: 4 s
 
-2022-03-22 11:58:29 AM Getting data: dataset_name = QNA, country = Czech Republic, frequency = A Time: 226 s
+2022-03-22 12:32:14 PM Getting data: dataset_name = QNA, country = Chile, frequency = A Time: 4 s
 
-2022-03-22 11:58:34 AM Total New Items Found: 0 Time: 231 s
+2022-03-22 12:32:14 PM Present File Exists. Reading Data From Default Path.
 
-2022-03-22 11:58:34 AM Getting data: dataset_name = QNA, country = Czech Republic, frequency = Q Time: 231 s
+2022-03-22 12:32:15 PM Total New Items Found: 0 Time: 4 s
 
-2022-03-22 11:58:52 AM Total New Items Found: 0 Time: 249 s
+2022-03-22 12:32:15 PM Getting data: dataset_name = QNA, country = Chile, frequency = Q Time: 4 s
 
-2022-03-22 11:58:52 AM Getting data: dataset_name = QNA, country = Germany, frequency = A Time: 249 s
+2022-03-22 12:32:15 PM Present File Exists. Reading Data From Default Path.
 
-2022-03-22 11:58:58 AM Total New Items Found: 0 Time: 255 s
+2022-03-22 12:32:15 PM Total New Items Found: 0 Time: 4 s
 
-2022-03-22 11:58:58 AM Getting data: dataset_name = QNA, country = Germany, frequency = Q Time: 255 s
+2022-03-22 12:32:15 PM Getting data: dataset_name = QNA, country = China, frequency = A Time: 4 s
 
-2022-03-22 11:59:21 AM Total New Items Found: 0 Time: 278 s
+2022-03-22 12:32:15 PM Present File Exists. Reading Data From Default Path.
 
-2022-03-22 11:59:21 AM Getting data: dataset_name = QNA, country = Western Germany, frequency = A Time: 278 s
+2022-03-22 12:32:15 PM Total New Items Found: 0 Time: 4 s
 
-2022-03-22 11:59:23 AM Total New Items Found: 0 Time: 280 s
+2022-03-22 12:32:15 PM Getting data: dataset_name = QNA, country = China, frequency = Q Time: 4 s
 
-2022-03-22 11:59:23 AM Getting data: dataset_name = QNA, country = Western Germany, frequency = Q Time: 280 s
+2022-03-22 12:32:15 PM Present File Exists. Reading Data From Default Path.
 
-2022-03-22 11:59:25 AM Total New Items Found: 0 Time: 282 s
+2022-03-22 12:32:15 PM Total New Items Found: 0 Time: 4 s
 
-2022-03-22 11:59:25 AM Getting data: dataset_name = QNA, country = Denmark, frequency = A Time: 282 s
+2022-03-22 12:32:15 PM Getting data: dataset_name = QNA, country = Colombia, frequency = A Time: 4 s
 
-2022-03-22 11:59:31 AM Total New Items Found: 0 Time: 288 s
+2022-03-22 12:32:15 PM Present File Exists. Reading Data From Default Path.
 
-2022-03-22 11:59:31 AM Getting data: dataset_name = QNA, country = Denmark, frequency = Q Time: 288 s
+2022-03-22 12:32:15 PM Total New Items Found: 0 Time: 4 s
 
-2022-03-22 11:59:51 AM Total New Items Found: 0 Time: 308 s
+2022-03-22 12:32:15 PM Getting data: dataset_name = QNA, country = Colombia, frequency = Q Time: 4 s
 
-2022-03-22 11:59:51 AM Getting data: dataset_name = QNA, country = Euro area, frequency = A Time: 308 s
+2022-03-22 12:32:15 PM Present File Exists. Reading Data From Default Path.
 
-2022-03-22 11:59:57 AM Total New Items Found: 0 Time: 314 s
+2022-03-22 12:32:15 PM Total New Items Found: 0 Time: 4 s
 
-2022-03-22 11:59:57 AM Getting data: dataset_name = QNA, country = Euro area, frequency = Q Time: 314 s
+2022-03-22 12:32:15 PM Getting data: dataset_name = QNA, country = Costa Rica, frequency = A Time: 4 s
 
-2022-03-22 12:00:14 PM Total New Items Found: 0 Time: 331 s
+2022-03-22 12:32:15 PM Present File Exists. Reading Data From Default Path.
 
-2022-03-22 12:00:14 PM Getting data: dataset_name = QNA, country = Spain, frequency = A Time: 331 s
+2022-03-22 12:32:15 PM Total New Items Found: 0 Time: 4 s
 
-2022-03-22 12:00:20 PM Total New Items Found: 0 Time: 337 s
+2022-03-22 12:32:15 PM Getting data: dataset_name = QNA, country = Costa Rica, frequency = Q Time: 4 s
 
-2022-03-22 12:00:20 PM Getting data: dataset_name = QNA, country = Spain, frequency = Q Time: 337 s
+2022-03-22 12:32:15 PM Present File Exists. Reading Data From Default Path.
+
+2022-03-22 12:32:15 PM Total New Items Found: 0 Time: 5 s
+
+2022-03-22 12:32:15 PM Getting data: dataset_name = QNA, country = Cyprus, frequency = A Time: 5 s
+
+2022-03-22 12:32:15 PM Present File Exists. Reading Data From Default Path.
+
+2022-03-22 12:32:15 PM Total New Items Found: 0 Time: 5 s
+
+2022-03-22 12:32:15 PM Getting data: dataset_name = QNA, country = Cyprus, frequency = Q Time: 5 s
+
+2022-03-22 12:32:15 PM Present File Exists. Reading Data From Default Path.
+
+2022-03-22 12:32:15 PM Total New Items Found: 0 Time: 5 s
+
+2022-03-22 12:32:15 PM Getting data: dataset_name = QNA, country = Czech Republic, frequency = A Time: 5 s
+
+2022-03-22 12:32:15 PM Present File Exists. Reading Data From Default Path.
+
+2022-03-22 12:32:15 PM Total New Items Found: 0 Time: 5 s
+
+2022-03-22 12:32:15 PM Getting data: dataset_name = QNA, country = Czech Republic, frequency = Q Time: 5 s
+
+2022-03-22 12:32:15 PM Present File Exists. Reading Data From Default Path.
+
+2022-03-22 12:32:15 PM Total New Items Found: 0 Time: 5 s
+
+2022-03-22 12:32:15 PM Getting data: dataset_name = QNA, country = Germany, frequency = A Time: 5 s
+
+2022-03-22 12:32:15 PM Present File Exists. Reading Data From Default Path.
+
+2022-03-22 12:32:16 PM Total New Items Found: 0 Time: 5 s
+
+2022-03-22 12:32:16 PM Getting data: dataset_name = QNA, country = Germany, frequency = Q Time: 5 s
+
+2022-03-22 12:32:16 PM Present File Exists. Reading Data From Default Path.
+
+2022-03-22 12:32:16 PM Total New Items Found: 0 Time: 5 s
+
+2022-03-22 12:32:16 PM Getting data: dataset_name = QNA, country = Western Germany, frequency = A Time: 5 s
+
+2022-03-22 12:32:16 PM Present File Exists. Reading Data From Default Path.
+
+2022-03-22 12:32:16 PM Total New Items Found: 0 Time: 5 s
+
+2022-03-22 12:32:16 PM Getting data: dataset_name = QNA, country = Western Germany, frequency = Q Time: 5 s
+
+2022-03-22 12:32:16 PM Present File Exists. Reading Data From Default Path.
+
+2022-03-22 12:32:16 PM Total New Items Found: 0 Time: 5 s
+
+2022-03-22 12:32:16 PM Getting data: dataset_name = QNA, country = Denmark, frequency = A Time: 5 s
+
+2022-03-22 12:32:16 PM Present File Exists. Reading Data From Default Path.
+
+2022-03-22 12:32:16 PM Total New Items Found: 0 Time: 6 s
+
+2022-03-22 12:32:16 PM Getting data: dataset_name = QNA, country = Denmark, frequency = Q Time: 6 s
+
+2022-03-22 12:32:16 PM Present File Exists. Reading Data From Default Path.
+
+2022-03-22 12:32:16 PM Total New Items Found: 0 Time: 6 s
+
+2022-03-22 12:32:16 PM Getting data: dataset_name = QNA, country = Euro area, frequency = A Time: 6 s
+
+2022-03-22 12:32:16 PM Present File Exists. Reading Data From Default Path.
+
+2022-03-22 12:32:16 PM Total New Items Found: 0 Time: 6 s
+
+2022-03-22 12:32:16 PM Getting data: dataset_name = QNA, country = Euro area, frequency = Q Time: 6 s
+
+2022-03-22 12:32:16 PM Present File Exists. Reading Data From Default Path.
+
+2022-03-22 12:32:16 PM Total New Items Found: 0 Time: 6 s
+
+2022-03-22 12:32:16 PM Getting data: dataset_name = QNA, country = Spain, frequency = A Time: 6 s
+
+2022-03-22 12:32:16 PM Present File Exists. Reading Data From Default Path.
+
+2022-03-22 12:32:17 PM Total New Items Found: 0 Time: 6 s
+
+2022-03-22 12:32:17 PM Getting data: dataset_name = QNA, country = Spain, frequency = Q Time: 6 s
+
+2022-03-22 12:32:17 PM Present File Exists. Reading Data From Default Path.
+
+2022-03-22 12:32:17 PM Total New Items Found: 0 Time: 6 s
+
+2022-03-22 12:32:17 PM Getting data: dataset_name = QNA, country = Estonia, frequency = A Time: 6 s
+
+2022-03-22 12:32:17 PM Present File Exists. Reading Data From Default Path.
+
+2022-03-22 12:32:17 PM Total New Items Found: 0 Time: 7 s
+
+2022-03-22 12:32:17 PM Getting data: dataset_name = QNA, country = Estonia, frequency = Q Time: 7 s
+
+2022-03-22 12:32:17 PM Present File Exists. Reading Data From Default Path.
+
+2022-03-22 12:32:17 PM Total New Items Found: 0 Time: 7 s
+
+2022-03-22 12:32:17 PM Getting data: dataset_name = QNA, country = European Union (15 countries), frequency = A Time: 7 s
+
+2022-03-22 12:32:17 PM Present File Exists. Reading Data From Default Path.
+
+2022-03-22 12:32:17 PM Total New Items Found: 0 Time: 7 s
+
+2022-03-22 12:32:17 PM Getting data: dataset_name = QNA, country = European Union (15 countries), frequency = Q Time: 7 s
+
+2022-03-22 12:32:17 PM Present File Exists. Reading Data From Default Path.
+
+2022-03-22 12:32:17 PM Total New Items Found: 0 Time: 7 s
+
+2022-03-22 12:32:17 PM Getting data: dataset_name = QNA, country = European Union – 27 countries (from 01/02/2020), frequency = A Time: 7 s
+
+2022-03-22 12:32:17 PM Present File Exists. Reading Data From Default Path.
+
+2022-03-22 12:32:17 PM Total New Items Found: 0 Time: 7 s
+
+2022-03-22 12:32:17 PM Getting data: dataset_name = QNA, country = European Union – 27 countries (from 01/02/2020), frequency = Q Time: 7 s
+
+2022-03-22 12:32:17 PM Present File Exists. Reading Data From Default Path.
+
+2022-03-22 12:32:17 PM Total New Items Found: 0 Time: 7 s
+
+2022-03-22 12:32:17 PM Getting data: dataset_name = QNA, country = European Union (28 countries), frequency = A Time: 7 s
+
+2022-03-22 12:32:17 PM Present File Exists. Reading Data From Default Path.
+
+2022-03-22 12:32:17 PM Total New Items Found: 0 Time: 7 s
+
+2022-03-22 12:32:17 PM Getting data: dataset_name = QNA, country = European Union (28 countries), frequency = Q Time: 7 s
+
+2022-03-22 12:32:17 PM Present File Exists. Reading Data From Default Path.
+
+2022-03-22 12:32:17 PM Total New Items Found: 0 Time: 7 s
+
+2022-03-22 12:32:17 PM Getting data: dataset_name = QNA, country = Finland, frequency = A Time: 7 s
+
+2022-03-22 12:32:17 PM Present File Exists. Reading Data From Default Path.
+
+2022-03-22 12:32:18 PM Total New Items Found: 0 Time: 7 s
+
+2022-03-22 12:32:18 PM Getting data: dataset_name = QNA, country = Finland, frequency = Q Time: 7 s
+
+2022-03-22 12:32:18 PM Present File Exists. Reading Data From Default Path.
+
+2022-03-22 12:32:18 PM Total New Items Found: 0 Time: 7 s
+
+2022-03-22 12:32:18 PM Getting data: dataset_name = QNA, country = France, frequency = A Time: 7 s
+
+2022-03-22 12:32:18 PM Present File Exists. Reading Data From Default Path.
+
+2022-03-22 12:32:18 PM Total New Items Found: 0 Time: 8 s
+
+2022-03-22 12:32:18 PM Getting data: dataset_name = QNA, country = France, frequency = Q Time: 8 s
+
+2022-03-22 12:32:18 PM Present File Exists. Reading Data From Default Path.
+
+2022-03-22 12:32:18 PM Total New Items Found: 0 Time: 8 s
+
+2022-03-22 12:32:18 PM Getting data: dataset_name = QNA, country = G20, frequency = A Time: 8 s
+
+2022-03-22 12:32:18 PM Present File Exists. Reading Data From Default Path.
+
+2022-03-22 12:32:18 PM Total New Items Found: 0 Time: 8 s
+
+2022-03-22 12:32:18 PM Getting data: dataset_name = QNA, country = G20, frequency = Q Time: 8 s
+
+2022-03-22 12:32:18 PM Present File Exists. Reading Data From Default Path.
+
+2022-03-22 12:32:18 PM Total New Items Found: 0 Time: 8 s
+
+2022-03-22 12:32:18 PM Getting data: dataset_name = QNA, country = G7, frequency = A Time: 8 s
+
+2022-03-22 12:32:18 PM Present File Exists. Reading Data From Default Path.
+
+2022-03-22 12:32:18 PM Total New Items Found: 0 Time: 8 s
+
+2022-03-22 12:32:18 PM Getting data: dataset_name = QNA, country = G7, frequency = Q Time: 8 s
+
+2022-03-22 12:32:18 PM Present File Exists. Reading Data From Default Path.
+
+2022-03-22 12:32:18 PM Total New Items Found: 0 Time: 8 s
+
+2022-03-22 12:32:18 PM Getting data: dataset_name = QNA, country = Big 4 Europe, frequency = A Time: 8 s
+
+2022-03-22 12:32:18 PM Present File Exists. Reading Data From Default Path.
+
+2022-03-22 12:32:18 PM Total New Items Found: 0 Time: 8 s
+
+2022-03-22 12:32:18 PM Getting data: dataset_name = QNA, country = Big 4 Europe, frequency = Q Time: 8 s
+
+2022-03-22 12:32:18 PM Present File Exists. Reading Data From Default Path.
+
+2022-03-22 12:32:18 PM Total New Items Found: 0 Time: 8 s
+
+2022-03-22 12:32:18 PM Getting data: dataset_name = QNA, country = United Kingdom, frequency = A Time: 8 s
+
+2022-03-22 12:32:18 PM Present File Exists. Reading Data From Default Path.
+
+2022-03-22 12:32:18 PM Total New Items Found: 0 Time: 8 s
+
+2022-03-22 12:32:18 PM Getting data: dataset_name = QNA, country = United Kingdom, frequency = Q Time: 8 s
+
+2022-03-22 12:32:18 PM Present File Exists. Reading Data From Default Path.
+
+2022-03-22 12:32:19 PM Total New Items Found: 0 Time: 8 s
+
+2022-03-22 12:32:19 PM Getting data: dataset_name = QNA, country = Greece, frequency = A Time: 8 s
+
+2022-03-22 12:32:19 PM Present File Exists. Reading Data From Default Path.
+
+2022-03-22 12:32:19 PM Total New Items Found: 0 Time: 8 s
+
+2022-03-22 12:32:19 PM Getting data: dataset_name = QNA, country = Greece, frequency = Q Time: 8 s
+
+2022-03-22 12:32:19 PM Present File Exists. Reading Data From Default Path.
+
+2022-03-22 12:32:19 PM Total New Items Found: 0 Time: 9 s
+
+2022-03-22 12:32:19 PM Getting data: dataset_name = QNA, country = Hungary, frequency = A Time: 9 s
+
+2022-03-22 12:32:19 PM Present File Exists. Reading Data From Default Path.
+
+2022-03-22 12:32:19 PM Total New Items Found: 0 Time: 9 s
+
+2022-03-22 12:32:19 PM Getting data: dataset_name = QNA, country = Hungary, frequency = Q Time: 9 s
+
+2022-03-22 12:32:19 PM Present File Exists. Reading Data From Default Path.
+
+2022-03-22 12:32:19 PM Total New Items Found: 0 Time: 9 s
+
+2022-03-22 12:32:19 PM Getting data: dataset_name = QNA, country = Indonesia, frequency = A Time: 9 s
+
+2022-03-22 12:32:19 PM Present File Exists. Reading Data From Default Path.
+
+2022-03-22 12:32:19 PM Total New Items Found: 0 Time: 9 s
+
+2022-03-22 12:32:19 PM Getting data: dataset_name = QNA, country = Indonesia, frequency = Q Time: 9 s
+
+2022-03-22 12:32:19 PM Present File Exists. Reading Data From Default Path.
+
+2022-03-22 12:32:19 PM Total New Items Found: 0 Time: 9 s
+
+2022-03-22 12:32:19 PM Getting data: dataset_name = QNA, country = Ukraine, frequency = A Time: 9 s
+
+2022-03-22 12:32:19 PM Present File Exists. Reading Data From Default Path.
+
+2022-03-22 12:32:19 PM Total New Items Found: 0 Time: 9 s
+
+2022-03-22 12:32:19 PM Getting data: dataset_name = QNA, country = Ukraine, frequency = Q Time: 9 s
+
+2022-03-22 12:32:19 PM Present File Exists. Reading Data From Default Path.
+
+2022-03-22 12:32:19 PM Total New Items Found: 0 Time: 9 s
+
+2022-03-22 12:32:19 PM Getting data: dataset_name = QNA, country = India, frequency = A Time: 9 s
+
+2022-03-22 12:32:19 PM Present File Exists. Reading Data From Default Path.
+
+2022-03-22 12:32:19 PM Total New Items Found: 0 Time: 9 s
+
+2022-03-22 12:32:19 PM Getting data: dataset_name = QNA, country = India, frequency = Q Time: 9 s
+
+2022-03-22 12:32:19 PM Present File Exists. Reading Data From Default Path.
+
+2022-03-22 12:32:19 PM Total New Items Found: 0 Time: 9 s
+
+2022-03-22 12:32:19 PM Getting data: dataset_name = QNA, country = Ireland, frequency = A Time: 9 s
+
+2022-03-22 12:32:19 PM Present File Exists. Reading Data From Default Path.
+
+2022-03-22 12:32:20 PM Total New Items Found: 0 Time: 9 s
+
+2022-03-22 12:32:20 PM Getting data: dataset_name = QNA, country = Ireland, frequency = Q Time: 9 s
+
+2022-03-22 12:32:20 PM Present File Exists. Reading Data From Default Path.
+
+2022-03-22 12:32:20 PM Total New Items Found: 0 Time: 9 s
+
+2022-03-22 12:32:20 PM Getting data: dataset_name = QNA, country = Iceland, frequency = A Time: 9 s
+
+2022-03-22 12:32:20 PM Present File Exists. Reading Data From Default Path.
+
+2022-03-22 12:32:20 PM Total New Items Found: 0 Time: 9 s
+
+2022-03-22 12:32:20 PM Getting data: dataset_name = QNA, country = Iceland, frequency = Q Time: 9 s
+
+2022-03-22 12:32:20 PM Present File Exists. Reading Data From Default Path.
+
+2022-03-22 12:32:20 PM Total New Items Found: 0 Time: 10 s
+
+2022-03-22 12:32:20 PM Getting data: dataset_name = QNA, country = Israel, frequency = A Time: 10 s
+
+2022-03-22 12:32:20 PM Present File Exists. Reading Data From Default Path.
+
+2022-03-22 12:32:20 PM Total New Items Found: 0 Time: 10 s
+
+2022-03-22 12:32:20 PM Getting data: dataset_name = QNA, country = Israel, frequency = Q Time: 10 s
+
+2022-03-22 12:32:20 PM Present File Exists. Reading Data From Default Path.
+
+2022-03-22 12:32:20 PM Total New Items Found: 0 Time: 10 s
+
+2022-03-22 12:32:20 PM Getting data: dataset_name = QNA, country = Italy, frequency = A Time: 10 s
+
+2022-03-22 12:32:20 PM Present File Exists. Reading Data From Default Path.
+
+2022-03-22 12:32:20 PM Total New Items Found: 0 Time: 10 s
+
+2022-03-22 12:32:20 PM Getting data: dataset_name = QNA, country = Italy, frequency = Q Time: 10 s
+
+2022-03-22 12:32:20 PM Present File Exists. Reading Data From Default Path.
+
+2022-03-22 12:32:21 PM Total New Items Found: 0 Time: 10 s
+
+2022-03-22 12:32:21 PM Getting data: dataset_name = QNA, country = Japan, frequency = A Time: 10 s
+
+2022-03-22 12:32:21 PM Present File Exists. Reading Data From Default Path.
+
+2022-03-22 12:32:21 PM Total New Items Found: 0 Time: 10 s
+
+2022-03-22 12:32:21 PM Getting data: dataset_name = QNA, country = Japan, frequency = Q Time: 10 s
+
+2022-03-22 12:32:21 PM Present File Exists. Reading Data From Default Path.
+
+2022-03-22 12:32:21 PM Total New Items Found: 0 Time: 10 s
+
+2022-03-22 12:32:21 PM Getting data: dataset_name = QNA, country = Korea, frequency = A Time: 10 s
+
+2022-03-22 12:32:21 PM Present File Exists. Reading Data From Default Path.
+
+2022-03-22 12:32:21 PM Total New Items Found: 0 Time: 10 s
+
+2022-03-22 12:32:21 PM Getting data: dataset_name = QNA, country = Korea, frequency = Q Time: 10 s
+
+2022-03-22 12:32:21 PM Present File Exists. Reading Data From Default Path.
+
+2022-03-22 12:32:21 PM Total New Items Found: 0 Time: 11 s
+
+2022-03-22 12:32:21 PM Getting data: dataset_name = QNA, country = Lithuania, frequency = A Time: 11 s
+
+2022-03-22 12:32:21 PM Present File Exists. Reading Data From Default Path.
+
+2022-03-22 12:32:21 PM Total New Items Found: 0 Time: 11 s
+
+2022-03-22 12:32:21 PM Getting data: dataset_name = QNA, country = Lithuania, frequency = Q Time: 11 s
+
+2022-03-22 12:32:21 PM Present File Exists. Reading Data From Default Path.
+
+2022-03-22 12:32:21 PM Total New Items Found: 0 Time: 11 s
+
+2022-03-22 12:32:21 PM Getting data: dataset_name = QNA, country = Luxembourg, frequency = A Time: 11 s
+
+2022-03-22 12:32:21 PM Present File Exists. Reading Data From Default Path.
+
+2022-03-22 12:32:21 PM Total New Items Found: 0 Time: 11 s
+
+2022-03-22 12:32:21 PM Getting data: dataset_name = QNA, country = Luxembourg, frequency = Q Time: 11 s
+
+2022-03-22 12:32:21 PM Present File Exists. Reading Data From Default Path.
+
+2022-03-22 12:32:22 PM Total New Items Found: 0 Time: 11 s
+
+2022-03-22 12:32:22 PM Getting data: dataset_name = QNA, country = Latvia, frequency = A Time: 11 s
+
+2022-03-22 12:32:22 PM Present File Exists. Reading Data From Default Path.
+
+2022-03-22 12:32:22 PM Total New Items Found: 0 Time: 11 s
+
+2022-03-22 12:32:22 PM Getting data: dataset_name = QNA, country = Latvia, frequency = Q Time: 11 s
+
+2022-03-22 12:32:22 PM Present File Exists. Reading Data From Default Path.
+
+2022-03-22 12:32:22 PM Total New Items Found: 0 Time: 12 s
+
+2022-03-22 12:32:22 PM Getting data: dataset_name = QNA, country = Mexico, frequency = A Time: 12 s
+
+2022-03-22 12:32:22 PM Present File Exists. Reading Data From Default Path.
+
+2022-03-22 12:32:22 PM Total New Items Found: 0 Time: 12 s
+
+2022-03-22 12:32:22 PM Getting data: dataset_name = QNA, country = Mexico, frequency = Q Time: 12 s
+
+2022-03-22 12:32:22 PM Present File Exists. Reading Data From Default Path.
+
+2022-03-22 12:32:22 PM Total New Items Found: 0 Time: 12 s
+
+2022-03-22 12:32:22 PM Getting data: dataset_name = QNA, country = Malta, frequency = A Time: 12 s
+
+2022-03-22 12:32:22 PM Present File Exists. Reading Data From Default Path.
+
+2022-03-22 12:32:22 PM Total New Items Found: 0 Time: 12 s
+
+2022-03-22 12:32:22 PM Getting data: dataset_name = QNA, country = Malta, frequency = Q Time: 12 s
+
+2022-03-22 12:32:22 PM Present File Exists. Reading Data From Default Path.
+
+2022-03-22 12:32:22 PM Total New Items Found: 0 Time: 12 s
+
+2022-03-22 12:32:22 PM Getting data: dataset_name = QNA, country = NAFTA, frequency = A Time: 12 s
+
+2022-03-22 12:32:22 PM Present File Exists. Reading Data From Default Path.
+
+2022-03-22 12:32:22 PM Total New Items Found: 0 Time: 12 s
+
+2022-03-22 12:32:22 PM Getting data: dataset_name = QNA, country = NAFTA, frequency = Q Time: 12 s
+
+2022-03-22 12:32:22 PM Present File Exists. Reading Data From Default Path.
+
+2022-03-22 12:32:22 PM Total New Items Found: 0 Time: 12 s
+
+2022-03-22 12:32:22 PM Getting data: dataset_name = QNA, country = Netherlands, frequency = A Time: 12 s
+
+2022-03-22 12:32:22 PM Present File Exists. Reading Data From Default Path.
+
+2022-03-22 12:32:22 PM Total New Items Found: 0 Time: 12 s
+
+2022-03-22 12:32:22 PM Getting data: dataset_name = QNA, country = Netherlands, frequency = Q Time: 12 s
+
+2022-03-22 12:32:22 PM Present File Exists. Reading Data From Default Path.
+
+2022-03-22 12:32:23 PM Total New Items Found: 0 Time: 12 s
+
+2022-03-22 12:32:23 PM Getting data: dataset_name = QNA, country = Norway, frequency = A Time: 12 s
+
+2022-03-22 12:32:23 PM Present File Exists. Reading Data From Default Path.
+
+2022-03-22 12:32:23 PM Total New Items Found: 0 Time: 12 s
+
+2022-03-22 12:32:23 PM Getting data: dataset_name = QNA, country = Norway, frequency = Q Time: 12 s
+
+2022-03-22 12:32:23 PM Present File Exists. Reading Data From Default Path.
+
+2022-03-22 12:32:23 PM Total New Items Found: 0 Time: 13 s
+
+2022-03-22 12:32:23 PM Getting data: dataset_name = QNA, country = New Zealand, frequency = A Time: 13 s
+
+2022-03-22 12:32:23 PM Present File Exists. Reading Data From Default Path.
+
+2022-03-22 12:32:23 PM Total New Items Found: 0 Time: 13 s
+
+2022-03-22 12:32:23 PM Getting data: dataset_name = QNA, country = New Zealand, frequency = Q Time: 13 s
+
+2022-03-22 12:32:23 PM Present File Exists. Reading Data From Default Path.
+
+2022-03-22 12:32:23 PM Total New Items Found: 0 Time: 13 s
+
+2022-03-22 12:32:23 PM Getting data: dataset_name = QNA, country = OECD - Total, frequency = A Time: 13 s
+
+2022-03-22 12:32:23 PM Present File Exists. Reading Data From Default Path.
+
+2022-03-22 12:32:23 PM Total New Items Found: 0 Time: 13 s
+
+2022-03-22 12:32:23 PM Getting data: dataset_name = QNA, country = OECD - Total, frequency = Q Time: 13 s
+
+2022-03-22 12:32:23 PM Present File Exists. Reading Data From Default Path.
+
+2022-03-22 12:32:23 PM Total New Items Found: 0 Time: 13 s
+
+2022-03-22 12:32:23 PM Getting data: dataset_name = QNA, country = OECD - Europe, frequency = A Time: 13 s
+
+2022-03-22 12:32:23 PM Present File Exists. Reading Data From Default Path.
+
+2022-03-22 12:32:23 PM Total New Items Found: 0 Time: 13 s
+
+2022-03-22 12:32:23 PM Getting data: dataset_name = QNA, country = OECD - Europe, frequency = Q Time: 13 s
+
+2022-03-22 12:32:23 PM Present File Exists. Reading Data From Default Path.
+
+2022-03-22 12:32:23 PM Total New Items Found: 0 Time: 13 s
+
+2022-03-22 12:32:23 PM Getting data: dataset_name = QNA, country = OECD + Major Six NME, frequency = A Time: 13 s
+
+2022-03-22 12:32:23 PM Present File Exists. Reading Data From Default Path.
+
+2022-03-22 12:32:23 PM Total New Items Found: 0 Time: 13 s
+
+2022-03-22 12:32:23 PM Getting data: dataset_name = QNA, country = OECD + Major Six NME, frequency = Q Time: 13 s
+
+2022-03-22 12:32:23 PM Present File Exists. Reading Data From Default Path.
+
+2022-03-22 12:32:23 PM Total New Items Found: 0 Time: 13 s
+
+2022-03-22 12:32:23 PM Getting data: dataset_name = QNA, country = OECD - FORMER TOTAL, frequency = A Time: 13 s
+
+2022-03-22 12:32:23 PM Present File Exists. Reading Data From Default Path.
+
+2022-03-22 12:32:23 PM Total New Items Found: 0 Time: 13 s
+
+2022-03-22 12:32:23 PM Getting data: dataset_name = QNA, country = OECD - FORMER TOTAL, frequency = Q Time: 13 s
+
+2022-03-22 12:32:23 PM Present File Exists. Reading Data From Default Path.
+
+2022-03-22 12:32:23 PM Total New Items Found: 0 Time: 13 s
+
+2022-03-22 12:32:23 PM Getting data: dataset_name = QNA, country = OECD total excluding the euro area, frequency = A Time: 13 s
+
+2022-03-22 12:32:23 PM Present File Exists. Reading Data From Default Path.
+
+2022-03-22 12:32:23 PM Total New Items Found: 0 Time: 13 s
+
+2022-03-22 12:32:23 PM Getting data: dataset_name = QNA, country = OECD total excluding the euro area, frequency = Q Time: 13 s
+
+2022-03-22 12:32:23 PM Present File Exists. Reading Data From Default Path.
+
+2022-03-22 12:32:23 PM Total New Items Found: 0 Time: 13 s
+
+2022-03-22 12:32:23 PM Getting data: dataset_name = QNA, country = Poland, frequency = A Time: 13 s
+
+2022-03-22 12:32:23 PM Present File Exists. Reading Data From Default Path.
+
+2022-03-22 12:32:23 PM Total New Items Found: 0 Time: 13 s
+
+2022-03-22 12:32:23 PM Getting data: dataset_name = QNA, country = Poland, frequency = Q Time: 13 s
+
+2022-03-22 12:32:23 PM Present File Exists. Reading Data From Default Path.
+
+2022-03-22 12:32:24 PM Total New Items Found: 0 Time: 13 s
+
+2022-03-22 12:32:24 PM Getting data: dataset_name = QNA, country = Portugal, frequency = A Time: 13 s
+
+2022-03-22 12:32:24 PM Present File Exists. Reading Data From Default Path.
+
+2022-03-22 12:32:24 PM Total New Items Found: 0 Time: 13 s
+
+2022-03-22 12:32:24 PM Getting data: dataset_name = QNA, country = Portugal, frequency = Q Time: 13 s
+
+2022-03-22 12:32:24 PM Present File Exists. Reading Data From Default Path.
+
+2022-03-22 12:32:24 PM Total New Items Found: 0 Time: 14 s
+
+2022-03-22 12:32:24 PM Getting data: dataset_name = QNA, country = Romania, frequency = A Time: 14 s
+
+2022-03-22 12:32:24 PM Present File Exists. Reading Data From Default Path.
+
+2022-03-22 12:32:24 PM Total New Items Found: 0 Time: 14 s
+
+2022-03-22 12:32:24 PM Getting data: dataset_name = QNA, country = Romania, frequency = Q Time: 14 s
+
+2022-03-22 12:32:24 PM Present File Exists. Reading Data From Default Path.
+
+2022-03-22 12:32:24 PM Total New Items Found: 0 Time: 14 s
+
+2022-03-22 12:32:24 PM Getting data: dataset_name = QNA, country = Russia, frequency = A Time: 14 s
+
+2022-03-22 12:32:24 PM Present File Exists. Reading Data From Default Path.
+
+2022-03-22 12:32:24 PM Total New Items Found: 0 Time: 14 s
+
+2022-03-22 12:32:24 PM Getting data: dataset_name = QNA, country = Russia, frequency = Q Time: 14 s
+
+2022-03-22 12:32:24 PM Present File Exists. Reading Data From Default Path.
+
+2022-03-22 12:32:24 PM Total New Items Found: 0 Time: 14 s
+
+2022-03-22 12:32:24 PM Getting data: dataset_name = QNA, country = Saudi Arabia, frequency = A Time: 14 s
+
+2022-03-22 12:32:24 PM Present File Exists. Reading Data From Default Path.
+
+2022-03-22 12:32:24 PM Total New Items Found: 0 Time: 14 s
+
+2022-03-22 12:32:24 PM Getting data: dataset_name = QNA, country = Saudi Arabia, frequency = Q Time: 14 s
+
+2022-03-22 12:32:24 PM Present File Exists. Reading Data From Default Path.
+
+2022-03-22 12:32:24 PM Total New Items Found: 0 Time: 14 s
+
+2022-03-22 12:32:24 PM Getting data: dataset_name = QNA, country = SDR, frequency = A Time: 14 s
+
+2022-03-22 12:32:24 PM Present File Exists. Reading Data From Default Path.
+
+2022-03-22 12:32:24 PM Total New Items Found: 0 Time: 14 s
+
+2022-03-22 12:32:24 PM Getting data: dataset_name = QNA, country = SDR, frequency = Q Time: 14 s
+
+2022-03-22 12:32:24 PM Present File Exists. Reading Data From Default Path.
+
+2022-03-22 12:32:24 PM Total New Items Found: 0 Time: 14 s
+
+2022-03-22 12:32:24 PM Getting data: dataset_name = QNA, country = Slovak Republic, frequency = A Time: 14 s
+
+2022-03-22 12:32:24 PM Present File Exists. Reading Data From Default Path.
+
+2022-03-22 12:32:25 PM Total New Items Found: 0 Time: 14 s
+
+2022-03-22 12:32:25 PM Getting data: dataset_name = QNA, country = Slovak Republic, frequency = Q Time: 14 s
+
+2022-03-22 12:32:25 PM Present File Exists. Reading Data From Default Path.
+
+2022-03-22 12:32:25 PM Total New Items Found: 0 Time: 14 s
+
+2022-03-22 12:32:25 PM Getting data: dataset_name = QNA, country = Slovenia, frequency = A Time: 14 s
+
+2022-03-22 12:32:25 PM Present File Exists. Reading Data From Default Path.
+
+2022-03-22 12:32:25 PM Total New Items Found: 0 Time: 14 s
+
+2022-03-22 12:32:25 PM Getting data: dataset_name = QNA, country = Slovenia, frequency = Q Time: 14 s
+
+2022-03-22 12:32:25 PM Present File Exists. Reading Data From Default Path.
+
+2022-03-22 12:32:25 PM Total New Items Found: 0 Time: 14 s
+
+2022-03-22 12:32:25 PM Getting data: dataset_name = QNA, country = Sweden, frequency = A Time: 14 s
+
+2022-03-22 12:32:25 PM Present File Exists. Reading Data From Default Path.
+
+2022-03-22 12:32:25 PM Total New Items Found: 0 Time: 14 s
+
+2022-03-22 12:32:25 PM Getting data: dataset_name = QNA, country = Sweden, frequency = Q Time: 14 s
+
+2022-03-22 12:32:59 PM Total New Items Found: 0 Time: 49 s
+
+2022-03-22 12:32:59 PM Getting data: dataset_name = QNA, country = Turkey, frequency = A Time: 49 s
+
+2022-03-22 12:33:04 PM Total New Items Found: 0 Time: 53 s
+
+2022-03-22 12:33:04 PM Getting data: dataset_name = QNA, country = Turkey, frequency = Q Time: 53 s
+
+2022-03-22 12:33:22 PM Total New Items Found: 0 Time: 71 s
+
+2022-03-22 12:33:22 PM Getting data: dataset_name = QNA, country = United States, frequency = A Time: 71 s
 
