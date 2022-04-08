@@ -101,7 +101,7 @@ def QNIA_identity(data_path, df_key, DF_KEY, checkNotFound=False, checkDESC=True
                 if type(df_key.loc[ind, update]) != type(DF_KEY.loc[ind, update]) and df_key.loc[ind, update] != DF_KEY.loc[ind, update]:
                     if str(DF_KEY.loc[ind, update]).strip() == 'Nan' or ((type(DF_KEY.loc[ind, update]) == int or type(DF_KEY.loc[ind, update]) == numpy.int64) and (type(df_key.loc[ind, update]) == int or type(df_key.loc[ind, update]) == numpy.int64)):
                         continue
-                    elif str(df_key.loc[ind, update]).strip() == 'Nan' and int(str(DF_KEY.loc[ind, update]).strip()[:4]) < start_year:
+                    elif str(df_key.loc[ind, update]).strip() == 'Nan' and (str(DF_KEY.loc[ind, update]) == 'None' or int(str(DF_KEY.loc[ind, update]).strip()[:4]) < start_year):
                         continue
                     elif str(DF_KEY.loc[ind, update]).isnumeric() and str(df_key.loc[ind, update]).isnumeric():
                         continue
