@@ -1,52 +1,52 @@
 ,id,name
-0,GFSPB,Public sector
-1,GFSPR,Private sector
-2,PCGNPA,Net purchases abroad
-3,B1_GE,Gross domestic product - expenditure approach
-4,B1_GI,Gross domestic product - income approach
-5,B1_GS1,Gross domestic product
-6,B5_GS1,Gross national income at market prices
-7,D1_D4NFRS2,Net primary incomes from the rest of the world
-8,D1S1,Compensation of employees
-9,GDIS1,Gross domestic income
-10,P3,Final consumption expenditure
-11,P3_P5,add. Total domestic demand
-12,P311B,Durable goods
-13,P312B,Semi-durable goods
-14,P312N,Other goods and services
-15,P313B,Non-durable goods
-16,P314B,Services
-17,P31DC,Households consumption expenditure (Domestic Concept)
-18,P31NC,Households consumption expenditure (National Concept)
-19,P31S14,Final consumption expenditure of households
-20,P31S14_S15,Private final consumption expenditure
-21,P31S14_S15B,Private final consumption expenditure by durability
-22,P31S15,Final consumption expenditure of non-profit institutions serving households
-23,P31S15B,Final consumption expenditure of non-profit institutions serving households
-24,P3S13,General government final consumption expenditure
-25,P5,Gross capital formation
-26,P51,Gross fixed capital formation
-27,P51A,Gross fixed capital formation by asset
-28,P51S,GFCF by institutional sector
-29,P52,Changes in inventories
-30,P52_P53,Changes in inventories and acquisitions less disposals of valuables
-31,P6,Exports of goods and services
-32,P61,Exports of goods
-33,P62,Exports of services
-34,P7,Imports of goods and services
-35,P71,Imports of goods
-36,P72,Imports of services
-37,RB1_GE,Residual item
-38,RP31DC,Residual item
-39,TGLS1,Trading gains or losses
-40,D1_D4FRS2,Primary incomes receivable from the rest of the world
-41,D1_D4TOS2,Primary incomes payable to the rest of the world
-42,B11,External balance of goods and services
-43,P51N1111,Dwellings
-44,P51N1112,Other buildings and structures
-45,P51N11131,Transport equipment
-46,P51N112,Intellectual property products
-47,POPNC,Total population
-48,PPPGDP,add. Purchasing power parity of GDP
-49,P51N1113,Machinery and equipment+weapon system
-50,P51N1113O,Other machinery and equipment+weapon systems
+0,PCGNPA,Net purchases abroad
+1,B1_GE,Gross domestic product - expenditure approach
+2,B1_GI,Gross domestic product - income approach
+3,B1_GS1,Gross domestic product
+4,B5_GS1,Gross national income at market prices
+5,D1_D4NFRS2,Net primary incomes from the rest of the world
+6,D1S1,Compensation of employees
+7,GDIS1,Gross domestic income
+8,P3,Final consumption expenditure
+9,P3_P5,add. Total domestic demand
+10,P311B,Durable goods
+11,P312B,Semi-durable goods
+12,P312N,Other goods and services
+13,P313B,Non-durable goods
+14,P314B,Services
+15,P31DC,Households consumption expenditure (Domestic Concept)
+16,P31NC,Households consumption expenditure (National Concept)
+17,P31S14,Final consumption expenditure of households
+18,P31S14_S15,Private final consumption expenditure
+19,P31S14_S15B,Private final consumption expenditure by durability
+20,P31S15,Final consumption expenditure of non-profit institutions serving households
+21,P31S15B,Final consumption expenditure of non-profit institutions serving households
+22,P3S13,General government final consumption expenditure
+23,P5,Gross capital formation
+24,P51,Gross fixed capital formation
+25,P51A,Gross fixed capital formation by asset
+26,P51S,GFCF by institutional sector
+27,P52,Changes in inventories
+28,P52_P53,Changes in inventories and acquisitions less disposals of valuables
+29,P6,Exports of goods and services
+30,P61,Exports of goods
+31,P62,Exports of services
+32,P7,Imports of goods and services
+33,P71,Imports of goods
+34,P72,Imports of services
+35,RB1_GE,Residual item
+36,RP31DC,Residual item
+37,TGLS1,Trading gains or losses
+38,D1_D4FRS2,Primary incomes receivable from the rest of the world
+39,D1_D4TOS2,Primary incomes payable to the rest of the world
+40,B11,External balance of goods and services
+41,P51N1111,Dwellings
+42,P51N1112,Other buildings and structures
+43,P51N11131,Transport equipment
+44,P51N112,Intellectual property products
+45,POPNC,Total population
+46,PPPGDP,add. Purchasing power parity of GDP
+47,P51N1113,Machinery and equipment+weapon system
+48,P51N1113O,Other machinery and equipment+weapon systems
+49,P51S13,General government
+50,P51S1LESSS13,Non-government

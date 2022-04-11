@@ -11,9 +11,9 @@
 9,HRSSA,"Hours worked, seasonally adjusted"
 10,PERSA,"Persons, seasonally adjusted"
 11,PER,Persons
-12,GPSA,"Growth rate based on seasonally adjusted volume data, percentage change from previous quarter"
+12,GPSA,"Growth rate based on seasonally adjusted volume data, percentage change on the previous quarter"
 13,VPVOBARSA,"US dollars, volume estimates, fixed PPPs, OECD reference year, annual levels, seasonally adjusted"
-14,GYSA,"Growth rate based on seasonally adjusted volume data,  percentage change from same quarter of previous year"
+14,GYSA,"Growth rate based on seasonally adjusted volume data,  percentage change on the same quarter of the previous year"
 15,CD,National currency per US Dollar
 16,CPCARSA,"US dollars, current prices, current PPPs, annual levels, seasonally adjusted"
 17,HVPVOBARSA,"Per Head, US dollars, volume estimates, fixed PPPs, OECD reference year, seasonally adjusted"

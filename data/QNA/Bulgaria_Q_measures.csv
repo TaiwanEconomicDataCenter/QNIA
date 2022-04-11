@@ -12,8 +12,8 @@
 10,CD,National currency per US Dollar
 11,VPVOBARSA,"US dollars, volume estimates, fixed PPPs, OECD reference year, annual levels, seasonally adjusted"
 12,VIXOBSA,"Volume index, OECD reference year, seasonally adjusted"
-13,GPSA,"Growth rate based on seasonally adjusted volume data, percentage change from previous quarter"
-14,GYSA,"Growth rate based on seasonally adjusted volume data,  percentage change from same quarter of previous year"
+13,GPSA,"Growth rate based on seasonally adjusted volume data, percentage change on the previous quarter"
+14,GYSA,"Growth rate based on seasonally adjusted volume data,  percentage change on the same quarter of the previous year"
 15,DOBSA,"Deflator, OECD reference year, seasonally adjusted"
 16,CPCARSA,"US dollars, current prices, current PPPs, annual levels, seasonally adjusted"
 17,CARSA,"National currency, current prices, annual levels, seasonally adjusted"

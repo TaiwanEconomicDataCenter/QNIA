@@ -10,11 +10,11 @@
 8,HRSSA,"Hours worked, seasonally adjusted"
 9,DNBSA,"Deflator, national base/reference year, seasonally adjusted"
 10,PER,Persons
-11,GPSA,"Growth rate based on seasonally adjusted volume data, percentage change from previous quarter"
+11,GPSA,"Growth rate based on seasonally adjusted volume data, percentage change on the previous quarter"
 12,CARSA,"National currency, current prices, annual levels, seasonally adjusted"
 13,HCPCARSA,"Per Head, US $, current prices, current PPPs, seasonally adjusted"
 14,VIXOBSA,"Volume index, OECD reference year, seasonally adjusted"
-15,GYSA,"Growth rate based on seasonally adjusted volume data,  percentage change from same quarter of previous year"
+15,GYSA,"Growth rate based on seasonally adjusted volume data,  percentage change on the same quarter of the previous year"
 16,DOBSA,"Deflator, OECD reference year, seasonally adjusted"
 17,VOBARSA,"National currency, volume estimates, OECD reference year, annual levels, seasonally adjusted"
 18,CD,National currency per US Dollar

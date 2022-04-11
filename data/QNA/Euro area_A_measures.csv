@@ -12,9 +12,9 @@
 10,LNBQR,"National currency, chained volume estimates, national reference year, quarterly levels"
 11,CPCARSA,"US dollars, current prices, current PPPs, annual levels, seasonally adjusted"
 12,DNBSA,"Deflator, national base/reference year, seasonally adjusted"
-13,GPSA,"Growth rate based on seasonally adjusted volume data, percentage change from previous quarter"
+13,GPSA,"Growth rate based on seasonally adjusted volume data, percentage change on the previous quarter"
 14,DOBSA,"Deflator, OECD reference year, seasonally adjusted"
-15,GYSA,"Growth rate based on seasonally adjusted volume data,  percentage change from same quarter of previous year"
+15,GYSA,"Growth rate based on seasonally adjusted volume data,  percentage change on the same quarter of the previous year"
 16,VOBARSA,"National currency, volume estimates, OECD reference year, annual levels, seasonally adjusted"
 17,CD,National currency per US Dollar
 18,HVPVOBARSA,"Per Head, US dollars, volume estimates, fixed PPPs, OECD reference year, seasonally adjusted"

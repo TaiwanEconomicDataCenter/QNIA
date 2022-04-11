@@ -4,11 +4,11 @@
 2,CQRSA,"National currency, current prices, quarterly levels, seasonally adjusted"
 3,VOBARSA,"National currency, volume estimates, OECD reference year, annual levels, seasonally adjusted"
 4,LNBQRSA,"National currency, chained volume estimates, national reference year, quarterly levels, seasonally adjusted"
-5,GYSA,"Growth rate based on seasonally adjusted volume data,  percentage change from same quarter of previous year"
+5,GYSA,"Growth rate based on seasonally adjusted volume data,  percentage change on the same quarter of the previous year"
 6,DOBSA,"Deflator, OECD reference year, seasonally adjusted"
 7,CARSA,"National currency, current prices, annual levels, seasonally adjusted"
 8,VIXOBSA,"Volume index, OECD reference year, seasonally adjusted"
-9,GPSA,"Growth rate based on seasonally adjusted volume data, percentage change from previous quarter"
+9,GPSA,"Growth rate based on seasonally adjusted volume data, percentage change on the previous quarter"
 10,CPCARSA,"US dollars, current prices, current PPPs, annual levels, seasonally adjusted"
 11,VPVOBARSA,"US dollars, volume estimates, fixed PPPs, OECD reference year, annual levels, seasonally adjusted"
 12,HRS,Hours worked

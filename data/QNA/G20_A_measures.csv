@@ -1,7 +1,7 @@
 ,id,name
-0,GPSA,"Growth rate based on seasonally adjusted volume data, percentage change from previous quarter"
+0,GPSA,"Growth rate based on seasonally adjusted volume data, percentage change on the previous quarter"
 1,VIXOBSA,"Volume index, OECD reference year, seasonally adjusted"
-2,GYSA,"Growth rate based on seasonally adjusted volume data,  percentage change from same quarter of previous year"
+2,GYSA,"Growth rate based on seasonally adjusted volume data,  percentage change on the same quarter of the previous year"
 3,DOBSA,"Deflator, OECD reference year, seasonally adjusted"
 4,CPCARSA,"US dollars, current prices, current PPPs, annual levels, seasonally adjusted"
 5,VPVOBARSA,"US dollars, volume estimates, fixed PPPs, OECD reference year, annual levels, seasonally adjusted"

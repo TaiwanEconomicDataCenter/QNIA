@@ -16,5 +16,5 @@
 14,HCPCARSA,"Per Head, US $, current prices, current PPPs, seasonally adjusted"
 15,DNBSA,"Deflator, national base/reference year, seasonally adjusted"
 16,PERSA,"Persons, seasonally adjusted"
-17,GPSA,"Growth rate based on seasonally adjusted volume data, percentage change from previous quarter"
-18,GYSA,"Growth rate based on seasonally adjusted volume data,  percentage change from same quarter of previous year"
+17,GPSA,"Growth rate based on seasonally adjusted volume data, percentage change on the previous quarter"
+18,GYSA,"Growth rate based on seasonally adjusted volume data,  percentage change on the same quarter of the previous year"
