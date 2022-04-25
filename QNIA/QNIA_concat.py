@@ -6,7 +6,7 @@ import numpy as np
 from datetime import datetime, date
 from urllib.error import HTTPError
 from pandas.errors import ParserError
-sys.path.append('../TO_DB')
+sys.path.append('../../TO_DB/TO_DB')
 from TO_DB import SELECT_DF_KEY, SELECT_DATABASES, INSERT_TABLES
 
 ENCODING = 'utf-8-sig'
