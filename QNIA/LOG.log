@@ -1,16 +1,32 @@
-﻿2022-05-03 09:10:13 AM excel_suffix: test
+﻿2022-05-03 09:22:31 AM excel_suffix: mysql
 
-2022-05-03 09:10:13 AM data_processing: True
+2022-05-03 09:22:31 AM data_processing: False
 
-2022-05-03 09:10:13 AM find_unknown: False
+2022-05-03 09:22:31 AM find_unknown: False
 
-2022-05-03 09:10:13 AM dealing_start_year: 1947
+2022-05-03 09:22:31 AM dealing_start_year: 1947
 
-2022-05-03 09:10:14 AM Data Processing
+2022-05-03 09:24:41 AM Process: File Merging
 
-2022-05-03 09:10:25 AM Getting data: dataset_name = QNA, country = Five Major Asia, frequency = A Time: 11 s
+2022-05-03 09:24:41 AM Reading main key: QNIA_keyNEW20220428.xlsx, Time: 130 s
 
-2022-05-03 09:10:29 AM Total New Items Found: 0 Time: 15 s
+2022-05-03 09:24:42 AM Reading main database: QNIA_databaseNEW20220428.xlsx, Time: 130 s
 
-2022-05-03 09:10:29 AM Getting data: dataset_name = QNA, country = Five Major Asia, frequency = Q Time: 15 s
+2022-05-03 09:24:42 AM Merging File, Time: 131 s
+
+2022-05-03 09:25:03 AM Setting files, Time: 151 s
+
+2022-05-03 09:25:05 AM Concating file: QNIA_key?, Time: 153 s
+
+2022-05-03 09:25:05 AM Concating file: QNIA_database?, Time: 153 s
+
+2022-05-03 09:29:51 AM Setting new files, Time: 440 s
+
+2022-05-03 10:11:04 AM Concating new files: QNIA_database, Time: 2912 s
+
+2022-05-03 10:11:42 AM Process: File Updating
+
+2022-05-03 10:11:42 AM Reading main key: QNIA_keyUP20220428.xlsx, Time: 2951 s
+
+2022-05-03 10:12:26 AM Reading main database: QNIA_databaseUP20220428.xlsx, Time: 2995 s
 
