@@ -50,3 +50,20 @@
 48,P51N1113,Machinery and equipment+weapon system
 49,P51S13,General government
 50,P51S1LESSS13,Non-government
+51,B1GVF,Construction (ISIC Rev.4)
+52,B1G,"Gross value added at basic prices, total activity"
+53,B1GVL,Real estate activities (ISIC Rev.4)
+54,B1GVM_N,"Prof., scientif., techn. activ.; admin., support service activ.(ISIC Rev.4)"
+55,B1GVK,Financial and insurance activities (ISIC Rev.4)
+56,B1GVJ,Information and communication (ISIC Rev.4)
+57,RB1_GA,Residual item
+58,B1GVR_U,Other service activities (ISIC Rev.4)
+59,B1GVA,"Agriculture, forestry and fishing (ISIC Rev.4)"
+60,B1GVO_Q,Public admin.; compulsory s.s.; education; human health (ISIC Rev.4)
+61,B1_GA,Gross domestic product at market prices - output approach
+62,B1GVC,of which: Manufacturing (ISIC Rev.4)
+63,B1GVB_E,"Industry, including energy (ISIC Rev.4)"
+64,DB1_GA,Statistical discrepancy
+65,B1GVG_U,Services (ISIC Rev.4)
+66,D21_D31,Taxes less subsidies on products
+67,B1GVG_I,"Distrib. trade, repairs; transp.; accommod., food serv. activ. (ISIC Rev.4)"
