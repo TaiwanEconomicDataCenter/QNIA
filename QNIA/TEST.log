@@ -1,10 +1,18 @@
-﻿2022-10-03 02:42:10 PM Checking Identities: 2463 s
+﻿2022-11-01 03:05:05 PM Checking Identities: 2508 s
 
-2022-10-03 02:42:24 PM unknown: 0
-2022-10-03 02:42:24 PM name too long: 0
-2022-10-03 02:42:24 PM inconsistent: 0
-2022-10-03 02:42:24 PM base updated: 0
-2022-10-03 02:42:24 PM data updated: 6732
-2022-10-03 02:42:24 PM including weekly: False
-2022-10-03 02:42:24 PM too many months: False
-2022-10-03 02:42:26 PM unfound: 1227
+2022-11-01 03:05:15 PM The program did not fetch the latest data for: Q196P51S13CQR.q
+2022-11-01 03:05:15 PM The program did not fetch the latest data for: Q196P51S13CQS.q
+2022-11-01 03:05:15 PM The program did not fetch the latest data for: Q196P51S13LNQ.q
+2022-11-01 03:05:15 PM The program did not fetch the latest data for: Q196P51S13LQS.q
+2022-11-01 03:05:15 PM The program did not fetch the latest data for: Q196P51S1LCQR.q
+2022-11-01 03:05:15 PM The program did not fetch the latest data for: Q196P51S1LCQS.q
+2022-11-01 03:05:15 PM The program did not fetch the latest data for: Q196P51S1LLNQ.q
+2022-11-01 03:05:15 PM The program did not fetch the latest data for: Q196P51S1LLQS.q
+2022-11-01 03:05:18 PM unknown: 0
+2022-11-01 03:05:18 PM name too long: 0
+2022-11-01 03:05:18 PM inconsistent: 0
+2022-11-01 03:05:18 PM base updated: 0
+2022-11-01 03:05:18 PM data updated: 2512
+2022-11-01 03:05:18 PM including weekly: False
+2022-11-01 03:05:18 PM too many months: False
+2022-11-01 03:05:20 PM unfound: 1225
