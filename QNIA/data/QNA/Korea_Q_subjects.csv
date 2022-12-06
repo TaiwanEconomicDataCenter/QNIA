@@ -103,7 +103,8 @@
 101,P3S1,Final consumption expenditure
 102,P5S1,Gross capital formation
 103,DB1_GA,Statistical discrepancy
-104,POPNC,Total population
-105,P3_P6,add. Total demand
-106,P51N1171G,Research and development
-107,P51N1179G,Other intellectual property products
+104,P3_P51,add. Final domestic demand
+105,POPNC,Total population
+106,P3_P6,add. Total demand
+107,P51N1171G,Research and development
+108,P51N1179G,Other intellectual property products
