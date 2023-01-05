@@ -1,52 +1,52 @@
-﻿2022-12-06 02:44:52 PM excel_suffix: mysql
+﻿2023-01-05 03:54:13 PM excel_suffix: mysql
 
-2022-12-06 02:44:52 PM data_processing: False
+2023-01-05 03:54:13 PM data_processing: False
 
-2022-12-06 02:44:52 PM find_unknown: False
+2023-01-05 03:54:13 PM find_unknown: False
 
-2022-12-06 02:44:52 PM dealing_start_year: 1947
+2023-01-05 03:54:13 PM dealing_start_year: 1947
 
-2022-12-06 02:45:25 PM Process: File Merging
+2023-01-05 03:56:01 PM Process: File Merging
 
-2022-12-06 02:45:25 PM Reading main key: QNIA_keyNEW.xlsx, Time: 32 s
+2023-01-05 03:56:01 PM Reading main key: QNIA_keyNEW.xlsx, Time: 108 s
 
-2022-12-06 02:45:26 PM Reading main database: QNIA_databaseNEW.xlsx, Time: 33 s
+2023-01-05 03:56:02 PM Reading main database: QNIA_databaseNEW.xlsx, Time: 108 s
 
-2022-12-06 02:45:26 PM Merging File, Time: 33 s
+2023-01-05 03:56:02 PM Merging File, Time: 109 s
 
-2022-12-06 02:45:28 PM Setting files, Time: 35 s
+2023-01-05 03:56:04 PM Setting files, Time: 111 s
 
-2022-12-06 02:45:28 PM Concating file: QNIA_key?, Time: 35 s
+2023-01-05 03:56:04 PM Concating file: QNIA_key?, Time: 111 s
 
-2022-12-06 02:45:28 PM Concating file: QNIA_database?, Time: 35 s
+2023-01-05 03:56:04 PM Concating file: QNIA_database?, Time: 111 s
 
-2022-12-06 02:45:55 PM Setting new files, Time: 62 s
+2023-01-05 03:56:37 PM Setting new files, Time: 144 s
 
-2022-12-06 02:49:47 PM Concating new files: QNIA_database, Time: 294 s
+2023-01-05 04:00:41 PM Concating new files: QNIA_database, Time: 388 s
 
-2022-12-06 02:53:59 PM Process: File Updating
+2023-01-05 04:00:59 PM Process: File Updating
 
-2022-12-06 02:53:59 PM Reading main key: QNIA_keyUP.xlsx, Time: 546 s
+2023-01-05 04:00:59 PM Reading main key: QNIA_keyUP.xlsx, Time: 406 s
 
-2022-12-06 02:54:08 PM Reading main database: QNIA_databaseUP.xlsx, Time: 556 s
+2023-01-05 04:01:09 PM Reading main database: QNIA_databaseUP.xlsx, Time: 416 s
 
-2022-12-06 02:54:58 PM Updating file: 0 s
+2023-01-05 04:01:59 PM Updating file: 0 s
 
-2022-12-06 03:25:49 PM updated: 12844
+2023-01-05 04:33:10 PM updated: 6355
 
-2022-12-06 03:25:49 PM Time: 1851 s
+2023-01-05 04:33:10 PM Time: 1871 s
 
-2022-12-06 03:26:09 PM       databank            name  ...                                         form_e form_c
-0         QNIA    A111B11CAR.a  ...  Gross domestic product - expenditure approach    NaN
-1         QNIA    A111B11CAS.a  ...  Gross domestic product - expenditure approach    NaN
-2         QNIA    A111B11CQR.a  ...  Gross domestic product - expenditure approach    NaN
-3         QNIA    A111B11CQS.a  ...  Gross domestic product - expenditure approach    NaN
-4         QNIA    A111B11LNQ.a  ...  Gross domestic product - expenditure approach   2012
-...        ...             ...  ...                                            ...    ...
-45394     QNIA     Q990P7GYS.q  ...  Gross domestic product - expenditure approach    NaN
-45395     QNIA     Q990P7VIO.q  ...  Gross domestic product - expenditure approach   2015
-45396     QNIA     Q990P7VPS.q  ...  Gross domestic product - expenditure approach   2015
-45397     QNIA  Q990RB1GECPS.q  ...  Gross domestic product - expenditure approach    NaN
-45398     QNIA  Q990RB1GEVPS.q  ...  Gross domestic product - expenditure approach   2015
+2023-01-05 04:33:18 PM       databank            name   db_table  ...                 book                                         form_e form_c
+0         QNIA    A111B11CAR.a  DB_A_0001  ...        United States  Gross domestic product - expenditure approach    NaN
+1         QNIA    A111B11CAS.a  DB_A_0001  ...        United States  Gross domestic product - expenditure approach    NaN
+2         QNIA    A111B11CQR.a  DB_A_0001  ...        United States  Gross domestic product - expenditure approach    NaN
+3         QNIA    A111B11CQS.a  DB_A_0001  ...        United States  Gross domestic product - expenditure approach    NaN
+4         QNIA    A111B11LNQ.a  DB_A_0001  ...        United States  Gross domestic product - expenditure approach   2012
+...        ...             ...        ...  ...                  ...                                            ...    ...
+45394     QNIA     Q990P7GYS.q  DB_Q_0114  ...  OECD - FORMER TOTAL  Gross domestic product - expenditure approach    NaN
+45395     QNIA     Q990P7VIO.q  DB_Q_0114  ...  OECD - FORMER TOTAL  Gross domestic product - expenditure approach   2015
+45396     QNIA     Q990P7VPS.q  DB_Q_0114  ...  OECD - FORMER TOTAL  Gross domestic product - expenditure approach   2015
+45397     QNIA  Q990RB1GECPS.q  DB_Q_0114  ...  OECD - FORMER TOTAL  Gross domestic product - expenditure approach    NaN
+45398     QNIA  Q990RB1GEVPS.q  DB_Q_0114  ...  OECD - FORMER TOTAL  Gross domestic product - expenditure approach   2015
 
 [45399 rows x 15 columns]
