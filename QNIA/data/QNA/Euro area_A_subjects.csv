@@ -13,27 +13,27 @@
 11,D11VA,"Agriculture, forestry and fishing (ISIC Rev.4)"
 12,ETOVB_E,"Industry, including energy (ISIC Rev.4)"
 13,D12VK,Financial and insurance activities (ISIC Rev.4)
-14,ESEVF,Construction (ISIC Rev.4)
-15,D11VG_I,"Distrib. trade, repairs; transp.; accommod., food serv. activ. (ISIC Rev.4)"
-16,B1GVM_N,"Prof., scientif., techn. activ.; admin., support service activ.(ISIC Rev.4)"
-17,D11,"Wages and salaries, total"
-18,EEM,"Employees, total"
-19,RB1_GA,Residual item
-20,ETO,"Employment, total"
-21,D12VO_Q,Public admin.; compulsory s.s.; education; human health (ISIC Rev.4)
-22,P7,Imports of goods and services
-23,EEMVM_N,"Prof., scientif., techn. activ.; admin., support service activ.(ISIC Rev.4)"
-24,D12VF,Construction (ISIC Rev.4)
-25,ESEVO_Q,Public admin.; compulsory s.s.; education; human health (ISIC Rev.4)
-26,D11VF,Construction (ISIC Rev.4)
-27,ETOVG_I,"Distrib. trade, repairs; transp.; accommod., food serv. activ. (ISIC Rev.4)"
-28,B1GVK,Financial and insurance activities (ISIC Rev.4)
-29,ETOVA,"Agriculture, forestry and fishing (ISIC Rev.4)"
-30,B11,External balance of goods and services
-31,D1VA,"Agriculture, forestry and fishing (ISIC Rev.4)"
-32,D12VJ,Information and communication (ISIC Rev.4)
-33,RB1_GE,Residual item
-34,B1_GI,Gross domestic product - income approach
+14,D11VG_I,"Distrib. trade, repairs; transp.; accommod., food serv. activ. (ISIC Rev.4)"
+15,B1GVM_N,"Prof., scientif., techn. activ.; admin., support service activ.(ISIC Rev.4)"
+16,D11,"Wages and salaries, total"
+17,EEM,"Employees, total"
+18,RB1_GA,Residual item
+19,ETO,"Employment, total"
+20,D12VO_Q,Public admin.; compulsory s.s.; education; human health (ISIC Rev.4)
+21,P7,Imports of goods and services
+22,EEMVM_N,"Prof., scientif., techn. activ.; admin., support service activ.(ISIC Rev.4)"
+23,D12VF,Construction (ISIC Rev.4)
+24,ESEVO_Q,Public admin.; compulsory s.s.; education; human health (ISIC Rev.4)
+25,D11VF,Construction (ISIC Rev.4)
+26,ETOVG_I,"Distrib. trade, repairs; transp.; accommod., food serv. activ. (ISIC Rev.4)"
+27,B1GVK,Financial and insurance activities (ISIC Rev.4)
+28,ETOVA,"Agriculture, forestry and fishing (ISIC Rev.4)"
+29,B11,External balance of goods and services
+30,D1VA,"Agriculture, forestry and fishing (ISIC Rev.4)"
+31,D12VJ,Information and communication (ISIC Rev.4)
+32,RB1_GE,Residual item
+33,B1_GI,Gross domestic product - income approach
+34,ESEVF,Construction (ISIC Rev.4)
 35,B1GVF,Construction (ISIC Rev.4)
 36,B1GVG_I,"Distrib. trade, repairs; transp.; accommod., food serv. activ. (ISIC Rev.4)"
 37,B1GVO_Q,Public admin.; compulsory s.s.; education; human health (ISIC Rev.4)
@@ -107,24 +107,36 @@
 105,D1VL,Real estate activities (ISIC Rev.4)
 106,D1VR_U,Other service activities (ISIC Rev.4)
 107,POPNC,Total population
-108,PPPGDP,add. Purchasing power parity of GDP
-109,B1_GS1,Gross domestic product
-110,D9FRS2,Capital transfers receivable from the rest of the world
-111,P3S1,Final consumption expenditure
-112,P5S1,Gross capital formation
-113,B8NS1,Net saving
-114,D9NFRS2,Net capital transfers from the rest of the world
-115,D1_D4TOS2,Primary incomes payable to the rest of the world
-116,B5_NS1,Net national income at market prices
-117,D1_D4NFRS2,Net primary incomes from the rest of the world
-118,K1MS1,Consumption of fixed capital
-119,D1_D4FRS2,Primary incomes receivable from the rest of the world
-120,D5_D7TOS2,Current transfers payable to the rest of the world
-121,B5_GS1,Gross national income at market prices
-122,B9S1,Net lending/net borrowing
-123,D9TOS2,Capital transfers payable to the rest of the world
-124,K1S1,Consumption of fixed capital
-125,D5_D7FRS2,Current transfers receivable from the rest of the world
-126,B6NS1,Net national disposable income
-127,D5_D7NFRS2,Net current transfers from the rest of the world
-128,RB1_GS1,Residual item
+108,B1_GS1,Gross domestic product
+109,D9FRS2,Capital transfers receivable from the rest of the world
+110,P3S1,Final consumption expenditure
+111,P5S1,Gross capital formation
+112,B8NS1,Net saving
+113,D9NFRS2,Net capital transfers from the rest of the world
+114,D1_D4TOS2,Primary incomes payable to the rest of the world
+115,B5_NS1,Net national income at market prices
+116,D1_D4NFRS2,Net primary incomes from the rest of the world
+117,K1MS1,Consumption of fixed capital
+118,D1_D4FRS2,Primary incomes receivable from the rest of the world
+119,D5_D7TOS2,Current transfers payable to the rest of the world
+120,B5_GS1,Gross national income at market prices
+121,B9S1,Net lending/net borrowing
+122,D9TOS2,Capital transfers payable to the rest of the world
+123,K1S1,Consumption of fixed capital
+124,D5_D7FRS2,Current transfers receivable from the rest of the world
+125,B6NS1,Net national disposable income
+126,D5_D7NFRS2,Net current transfers from the rest of the world
+127,RB1_GS1,Residual item
+128,P31S13,Individual consumption expenditure of general government
+129,P31S14,Final consumption expenditure of households
+130,P31S15,Final consumption expenditure of non-profit institutions serving households
+131,P32S13,Collective consumption expenditure of general government
+132,P51A,Gross fixed capital formation by asset
+133,P51N1111,Dwellings
+134,P51N1112,Other buildings and structures
+135,P51N11131,Transport equipment
+136,P51N1114,Cultivated biological resources
+137,P51N112,Intellectual property products
+138,P51N1113,Machinery and equipment+weapon system
+139,P51N1113I,ICT equipment
+140,P51N1113O,Other machinery and equipment+weapon systems

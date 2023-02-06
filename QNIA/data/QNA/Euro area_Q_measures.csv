@@ -16,6 +16,5 @@
 14,VIXOBSA,"Volume index, OECD reference year, seasonally adjusted"
 15,CARSA,"National currency, current prices, annual levels, seasonally adjusted"
 16,VOBARSA,"National currency, volume estimates, OECD reference year, annual levels, seasonally adjusted"
-17,CD,National currency per US Dollar
-18,HCPCARSA,"Per Head, US $, current prices, current PPPs, seasonally adjusted"
-19,HVPVOBARSA,"Per Head, US dollars, volume estimates, fixed PPPs, OECD reference year, seasonally adjusted"
+17,HCPCARSA,"Per Head, US $, current prices, current PPPs, seasonally adjusted"
+18,HVPVOBARSA,"Per Head, US dollars, volume estimates, fixed PPPs, OECD reference year, seasonally adjusted"
