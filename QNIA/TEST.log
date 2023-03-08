@@ -1,10 +1,11 @@
-﻿2023-02-06 10:04:39 AM Checking Identities: 2478 s
+﻿2023-03-02 04:22:10 PM Checking Identities: 2534 s
 
-2023-02-06 10:04:53 AM unknown: 0
-2023-02-06 10:04:53 AM name too long: 0
-2023-02-06 10:04:53 AM inconsistent: 0
-2023-02-06 10:04:53 AM base updated: 0
-2023-02-06 10:04:53 AM data updated: 2376
-2023-02-06 10:04:53 AM including weekly: False
-2023-02-06 10:04:53 AM too many months: False
-2023-02-06 10:04:55 AM unfound: 1231
+2023-03-02 04:22:17 PM The program did not fetch the latest data for: Q112DB1GECQR.q
+2023-03-02 04:22:24 PM unknown: 0
+2023-03-02 04:22:24 PM name too long: 0
+2023-03-02 04:22:24 PM inconsistent: 0
+2023-03-02 04:22:24 PM base updated: 0
+2023-03-02 04:22:24 PM data updated: 7516
+2023-03-02 04:22:24 PM including weekly: False
+2023-03-02 04:22:24 PM too many months: False
+2023-03-02 04:22:26 PM unfound: 1231
