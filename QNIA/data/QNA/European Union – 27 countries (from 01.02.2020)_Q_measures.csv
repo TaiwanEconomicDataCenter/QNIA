@@ -19,3 +19,4 @@
 17,CARSA,"National currency, current prices, annual levels, seasonally adjusted"
 18,DOBSA,"Deflator, OECD reference year, seasonally adjusted"
 19,HVPVOBARSA,"Per Head, US dollars, volume estimates, fixed PPPs, OECD reference year, seasonally adjusted"
+20,GCUMSA,"Cumulative growth based on seasonally adjusted volume data, percentage change on Q4-2019"

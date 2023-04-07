@@ -14,3 +14,4 @@
 12,PER,Persons
 13,HVPVOBARSA,"Per Head, US dollars, volume estimates, fixed PPPs, OECD reference year, seasonally adjusted"
 14,HCPCARSA,"Per Head, US $, current prices, current PPPs, seasonally adjusted"
+15,GCUMSA,"Cumulative growth based on seasonally adjusted volume data, percentage change on Q4-2019"

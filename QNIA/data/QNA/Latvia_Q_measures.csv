@@ -19,3 +19,4 @@
 17,HCPCARSA,"Per Head, US $, current prices, current PPPs, seasonally adjusted"
 18,HVPVOBARSA,"Per Head, US dollars, volume estimates, fixed PPPs, OECD reference year, seasonally adjusted"
 19,DNBSA,"Deflator, national base/reference year, seasonally adjusted"
+20,GCUMSA,"Cumulative growth based on seasonally adjusted volume data, percentage change on Q4-2019"

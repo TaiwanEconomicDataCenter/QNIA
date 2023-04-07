@@ -32,16 +32,15 @@
 30,B1G,"Gross value added at basic prices, total activity"
 31,B1GVL,Real estate activities (ISIC Rev.4)
 32,B1GVR_U,Other service activities (ISIC Rev.4)
-33,RB1_GA,Residual item
-34,B5_GS1,Gross national income at market prices
-35,P119,Financial Intermediation Services Indirectly Measured (FISIM)
-36,B1GVJ,Information and communication (ISIC Rev.4)
-37,P3_P6,add. Total demand
-38,P3_P5,add. Total domestic demand
-39,P3_P51,add. Final domestic demand
-40,D5_D7TOS2,Current transfers payable to the rest of the world
-41,D1_D4FRS2,Primary incomes receivable from the rest of the world
-42,P5S1,Gross capital formation
-43,D1_D4TOS2,Primary incomes payable to the rest of the world
-44,P3S1,Final consumption expenditure
-45,D1_D4NFRS2,Net primary incomes from the rest of the world
+33,B5_GS1,Gross national income at market prices
+34,P119,Financial Intermediation Services Indirectly Measured (FISIM)
+35,B1GVJ,Information and communication (ISIC Rev.4)
+36,P3_P6,add. Total demand
+37,P3_P5,add. Total domestic demand
+38,P3_P51,add. Final domestic demand
+39,D5_D7TOS2,Current transfers payable to the rest of the world
+40,D1_D4FRS2,Primary incomes receivable from the rest of the world
+41,P5S1,Gross capital formation
+42,D1_D4TOS2,Primary incomes payable to the rest of the world
+43,P3S1,Final consumption expenditure
+44,D1_D4NFRS2,Net primary incomes from the rest of the world

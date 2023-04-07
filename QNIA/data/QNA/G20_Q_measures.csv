@@ -5,3 +5,4 @@
 3,GYSA,"Growth rate based on seasonally adjusted volume data,  percentage change on the same quarter of the previous year"
 4,GPSA,"Growth rate based on seasonally adjusted volume data, percentage change on the previous quarter"
 5,VPVOBARSA,"US dollars, volume estimates, fixed PPPs, OECD reference year, annual levels, seasonally adjusted"
+6,GCUMSA,"Cumulative growth based on seasonally adjusted volume data, percentage change on Q4-2019"

@@ -18,3 +18,4 @@
 16,PERSA,"Persons, seasonally adjusted"
 17,GPSA,"Growth rate based on seasonally adjusted volume data, percentage change on the previous quarter"
 18,GYSA,"Growth rate based on seasonally adjusted volume data,  percentage change on the same quarter of the previous year"
+19,GCUMSA,"Cumulative growth based on seasonally adjusted volume data, percentage change on Q4-2019"

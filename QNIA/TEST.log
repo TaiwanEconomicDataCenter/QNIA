@@ -1,11 +1,37 @@
-﻿2023-03-02 04:22:10 PM Checking Identities: 2534 s
+﻿2023-04-07 04:16:27 PM Checking Identities: 2584 s
 
-2023-03-02 04:22:17 PM The program did not fetch the latest data for: Q112DB1GECQR.q
-2023-03-02 04:22:24 PM unknown: 0
-2023-03-02 04:22:24 PM name too long: 0
-2023-03-02 04:22:24 PM inconsistent: 0
-2023-03-02 04:22:24 PM base updated: 0
-2023-03-02 04:22:24 PM data updated: 7516
-2023-03-02 04:22:24 PM including weekly: False
-2023-03-02 04:22:24 PM too many months: False
-2023-03-02 04:22:26 PM unfound: 1231
+2023-04-07 04:16:29 PM Index A156D3S1CQS.a desc_e inconsistent
+2023-04-07 04:16:29 PM DF_KEY = Subsidies on production and imports, National currency, current prices, quarterly levels, seasonally adjusted, Units of  - Canada
+2023-04-07 04:16:29 PM df_key = Subsidies on production and imports, National currency, current prices, quarterly levels, seasonally adjusted, Millions of Canadian Dollar - Canada
+2023-04-07 04:16:29 PM Index A156D3S1CQS.a unit inconsistent
+2023-04-07 04:16:29 PM DF_KEY = Units of 
+2023-04-07 04:16:29 PM df_key = Millions of Canadian Dollar
+2023-04-07 04:16:36 PM Index Q156D3S1CQS.q desc_e inconsistent
+2023-04-07 04:16:36 PM DF_KEY = Subsidies on production and imports, National currency, current prices, quarterly levels, seasonally adjusted, Units of  - Canada
+2023-04-07 04:16:36 PM df_key = Subsidies on production and imports, National currency, current prices, quarterly levels, seasonally adjusted, Millions of Canadian Dollar - Canada
+2023-04-07 04:16:36 PM Index Q156D3S1CQS.q unit inconsistent
+2023-04-07 04:16:36 PM DF_KEY = Units of 
+2023-04-07 04:16:36 PM df_key = Millions of Canadian Dollar
+2023-04-07 04:16:39 PM Index Q542P3P51CTS.q desc_e inconsistent
+2023-04-07 04:16:39 PM DF_KEY = add. Final domestic demand, Contributions to Q-o-Q GDP growth, seasonally adjusted, Units of Won - Korea
+2023-04-07 04:16:39 PM df_key = add. Final domestic demand, Contributions to Q-o-Q GDP growth, seasonally adjusted, Units of Percentage points - Korea
+2023-04-07 04:16:39 PM Index Q542P3P51CTS.q unit inconsistent
+2023-04-07 04:16:39 PM DF_KEY = Units of Won
+2023-04-07 04:16:39 PM df_key = Units of Percentage points
+2023-04-07 04:16:41 PM unknown: 0
+2023-04-07 04:16:41 PM name too long: 0
+2023-04-07 04:16:41 PM inconsistent: 6
+2023-04-07 04:16:41 PM Total desc_e inconsistent: 3
+2023-04-07 04:16:41 PM Total desc_c inconsistent: 0
+2023-04-07 04:16:41 PM Total freq inconsistent: 0
+2023-04-07 04:16:41 PM Total unit inconsistent: 3
+2023-04-07 04:16:41 PM Total name_ord inconsistent: 0
+2023-04-07 04:16:41 PM Total book inconsistent: 0
+2023-04-07 04:16:41 PM Total form_e inconsistent: 0
+2023-04-07 04:16:41 PM Total form_c inconsistent: 0
+2023-04-07 04:16:41 PM inconsistent earliest: 1981
+2023-04-07 04:16:41 PM base updated: 0
+2023-04-07 04:16:41 PM data updated: 11130
+2023-04-07 04:16:41 PM including weekly: False
+2023-04-07 04:16:41 PM too many months: False
+2023-04-07 04:16:43 PM unfound: 1356

@@ -21,3 +21,4 @@
 19,CAR,"National currency, current prices, annual levels"
 20,CQR,"National currency, current prices, quarterly levels"
 21,PERSA,"Persons, seasonally adjusted"
+22,GCUMSA,"Cumulative growth based on seasonally adjusted volume data, percentage change on Q4-2019"

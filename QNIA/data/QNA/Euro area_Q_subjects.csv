@@ -107,36 +107,37 @@
 105,D12VF,Construction (ISIC Rev.4)
 106,D12VK,Financial and insurance activities (ISIC Rev.4)
 107,D12VA,"Agriculture, forestry and fishing (ISIC Rev.4)"
-108,B5_GS1,Gross national income at market prices
-109,P3S1,Final consumption expenditure
-110,D5_D7FRS2,Current transfers receivable from the rest of the world
-111,P5S1,Gross capital formation
-112,B8NS1,Net saving
-113,D1_D4NFRS2,Net primary incomes from the rest of the world
-114,D9NFRS2,Net capital transfers from the rest of the world
-115,K1MS1,Consumption of fixed capital
-116,B1_GS1,Gross domestic product
-117,B5_NS1,Net national income at market prices
-118,D9FRS2,Capital transfers receivable from the rest of the world
-119,D1_D4FRS2,Primary incomes receivable from the rest of the world
-120,D5_D7TOS2,Current transfers payable to the rest of the world
-121,B9S1,Net lending/net borrowing
-122,D9TOS2,Capital transfers payable to the rest of the world
-123,K1S1,Consumption of fixed capital
-124,D1_D4TOS2,Primary incomes payable to the rest of the world
-125,B6NS1,Net national disposable income
-126,D5_D7NFRS2,Net current transfers from the rest of the world
-127,RB1_GS1,Residual item
-128,P31S13,Individual consumption expenditure of general government
-129,P31S14,Final consumption expenditure of households
-130,P31S15,Final consumption expenditure of non-profit institutions serving households
-131,P32S13,Collective consumption expenditure of general government
-132,P51A,Gross fixed capital formation by asset
-133,P51N1111,Dwellings
-134,P51N1112,Other buildings and structures
-135,P51N11131,Transport equipment
-136,P51N1114,Cultivated biological resources
-137,P51N112,Intellectual property products
-138,P51N1113,Machinery and equipment+weapon system
-139,P51N1113I,ICT equipment
-140,P51N1113O,Other machinery and equipment+weapon systems
+108,PPPGDP,add. Purchasing power parity of GDP
+109,B5_GS1,Gross national income at market prices
+110,P3S1,Final consumption expenditure
+111,D5_D7FRS2,Current transfers receivable from the rest of the world
+112,P5S1,Gross capital formation
+113,B8NS1,Net saving
+114,D1_D4NFRS2,Net primary incomes from the rest of the world
+115,D9NFRS2,Net capital transfers from the rest of the world
+116,K1MS1,Consumption of fixed capital
+117,B1_GS1,Gross domestic product
+118,B5_NS1,Net national income at market prices
+119,D9FRS2,Capital transfers receivable from the rest of the world
+120,D1_D4FRS2,Primary incomes receivable from the rest of the world
+121,D5_D7TOS2,Current transfers payable to the rest of the world
+122,B9S1,Net lending/net borrowing
+123,D9TOS2,Capital transfers payable to the rest of the world
+124,K1S1,Consumption of fixed capital
+125,D1_D4TOS2,Primary incomes payable to the rest of the world
+126,B6NS1,Net national disposable income
+127,D5_D7NFRS2,Net current transfers from the rest of the world
+128,RB1_GS1,Residual item
+129,P31S13,Individual consumption expenditure of general government
+130,P31S14,Final consumption expenditure of households
+131,P31S15,Final consumption expenditure of non-profit institutions serving households
+132,P32S13,Collective consumption expenditure of general government
+133,P51A,Gross fixed capital formation by asset
+134,P51N1111,Dwellings
+135,P51N1112,Other buildings and structures
+136,P51N11131,Transport equipment
+137,P51N1114,Cultivated biological resources
+138,P51N112,Intellectual property products
+139,P51N1113,Machinery and equipment+weapon system
+140,P51N1113I,ICT equipment
+141,P51N1113O,Other machinery and equipment+weapon systems

@@ -36,74 +36,68 @@
 34,RB1_GA,Residual item
 35,RB1_GE,Residual item
 36,RP31DC,Residual item
-37,RP51,Residual item
-38,TGLS1,Trading gains or losses
-39,B11,External balance of goods and services
-40,P51N1111,Dwellings
-41,P51N1112,Other buildings and structures
-42,P51N11131,Transport equipment
-43,P51N112,Intellectual property products
-44,B1GVA,"Agriculture, forestry and fishing (ISIC Rev.4)"
-45,B1GVB_E,"Industry, including energy (ISIC Rev.4)"
-46,B1GVC,of which: Manufacturing (ISIC Rev.4)
-47,B1GVF,Construction (ISIC Rev.4)
-48,B1GVG_I,"Distrib. trade, repairs; transp.; accommod., food serv. activ. (ISIC Rev.4)"
-49,B1GVG_U,Services (ISIC Rev.4)
-50,B1GVJ,Information and communication (ISIC Rev.4)
-51,B1GVK,Financial and insurance activities (ISIC Rev.4)
-52,B1GVL,Real estate activities (ISIC Rev.4)
-53,B1GVM_N,"Prof., scientif., techn. activ.; admin., support service activ.(ISIC Rev.4)"
-54,B1GVO_Q,Public admin.; compulsory s.s.; education; human health (ISIC Rev.4)
-55,B1GVR_U,Other service activities (ISIC Rev.4)
-56,DB1_GE,Statistical discrepancy
-57,ETONC,Total employment
-58,POPNC,Total population
-59,EEMNC,Employees
-60,ESENC,Self-employed
-61,ETO,"Employment, total"
-62,ETOVB_E,"Industry, including energy (ISIC Rev.4)"
-63,ETOVG_I,"Distrib. trade, repairs; transp.; accommod., food serv. activ. (ISIC Rev.4)"
-64,ETOVL,Real estate activities (ISIC Rev.4)
-65,EEMVK,Financial and insurance activities (ISIC Rev.4)
-66,EEMVO_Q,Public admin.; compulsory s.s.; education; human health (ISIC Rev.4)
-67,ESEVB_E,"Industry, including energy (ISIC Rev.4)"
-68,ESEVM_N,"Prof., scientif., techn. activ.; admin., support service activ.(ISIC Rev.4)"
-69,ETOVA,"Agriculture, forestry and fishing (ISIC Rev.4)"
-70,ETOVF,Construction (ISIC Rev.4)
-71,ETOVK,Financial and insurance activities (ISIC Rev.4)
-72,ETOVC,of which: Manufacturing (ISIC Rev.4)
-73,ETOVJ,Information and communication (ISIC Rev.4)
-74,ETOVM_N,"Prof., scientif., techn. activ.; admin., support service activ.(ISIC Rev.4)"
-75,EEM,"Employees, total"
-76,EEMVA,"Agriculture, forestry and fishing (ISIC Rev.4)"
-77,EEMVF,Construction (ISIC Rev.4)
-78,EEMVL,Real estate activities (ISIC Rev.4)
-79,EEMVR_U,Other service activities (ISIC Rev.4)
-80,ESEVC,of which: Manufacturing (ISIC Rev.4)
-81,ESEVJ,Information and communication (ISIC Rev.4)
-82,ETOVR_U,Other service activities (ISIC Rev.4)
-83,ETOVO_Q,Public admin.; compulsory s.s.; education; human health (ISIC Rev.4)
-84,ESE,"Self-employed, total"
-85,EEMVB_E,"Industry, including energy (ISIC Rev.4)"
-86,EEMVG_I,"Distrib. trade, repairs; transp.; accommod., food serv. activ. (ISIC Rev.4)"
-87,ESEVA,"Agriculture, forestry and fishing (ISIC Rev.4)"
-88,ESEVF,Construction (ISIC Rev.4)
-89,ESEVK,Financial and insurance activities (ISIC Rev.4)
-90,ESEVO_Q,Public admin.; compulsory s.s.; education; human health (ISIC Rev.4)
-91,EEMVC,of which: Manufacturing (ISIC Rev.4)
-92,EEMVJ,Information and communication (ISIC Rev.4)
-93,EEMVM_N,"Prof., scientif., techn. activ.; admin., support service activ.(ISIC Rev.4)"
-94,ESEVG_I,"Distrib. trade, repairs; transp.; accommod., food serv. activ. (ISIC Rev.4)"
-95,ESEVL,Real estate activities (ISIC Rev.4)
-96,ESEVR_U,Other service activities (ISIC Rev.4)
-97,PPPGDP,add. Purchasing power parity of GDP
-98,P51N1113O,Other machinery and equipment+weapon systems
-99,P51N1113,Machinery and equipment+weapon system
-100,P3_P5,add. Total domestic demand
-101,P312N,Other goods and services
-102,P3S1,Final consumption expenditure
-103,P5S1,Gross capital formation
-104,DB1_GA,Statistical discrepancy
-105,P3_P6,add. Total demand
-106,P51N1171G,Research and development
-107,P51N1179G,Other intellectual property products
+37,TGLS1,Trading gains or losses
+38,B11,External balance of goods and services
+39,P51N1111,Dwellings
+40,P51N112,Intellectual property products
+41,B1GVA,"Agriculture, forestry and fishing (ISIC Rev.4)"
+42,B1GVB_E,"Industry, including energy (ISIC Rev.4)"
+43,B1GVC,of which: Manufacturing (ISIC Rev.4)
+44,B1GVF,Construction (ISIC Rev.4)
+45,B1GVG_I,"Distrib. trade, repairs; transp.; accommod., food serv. activ. (ISIC Rev.4)"
+46,B1GVG_U,Services (ISIC Rev.4)
+47,B1GVJ,Information and communication (ISIC Rev.4)
+48,B1GVK,Financial and insurance activities (ISIC Rev.4)
+49,B1GVL,Real estate activities (ISIC Rev.4)
+50,B1GVM_N,"Prof., scientif., techn. activ.; admin., support service activ.(ISIC Rev.4)"
+51,B1GVO_Q,Public admin.; compulsory s.s.; education; human health (ISIC Rev.4)
+52,B1GVR_U,Other service activities (ISIC Rev.4)
+53,DB1_GE,Statistical discrepancy
+54,ETONC,Total employment
+55,POPNC,Total population
+56,EEMNC,Employees
+57,ESENC,Self-employed
+58,ETO,"Employment, total"
+59,ETOVB_E,"Industry, including energy (ISIC Rev.4)"
+60,ETOVG_I,"Distrib. trade, repairs; transp.; accommod., food serv. activ. (ISIC Rev.4)"
+61,ETOVL,Real estate activities (ISIC Rev.4)
+62,EEMVK,Financial and insurance activities (ISIC Rev.4)
+63,EEMVO_Q,Public admin.; compulsory s.s.; education; human health (ISIC Rev.4)
+64,ESEVB_E,"Industry, including energy (ISIC Rev.4)"
+65,ESEVM_N,"Prof., scientif., techn. activ.; admin., support service activ.(ISIC Rev.4)"
+66,ETOVA,"Agriculture, forestry and fishing (ISIC Rev.4)"
+67,ETOVF,Construction (ISIC Rev.4)
+68,ETOVK,Financial and insurance activities (ISIC Rev.4)
+69,ETOVC,of which: Manufacturing (ISIC Rev.4)
+70,ETOVJ,Information and communication (ISIC Rev.4)
+71,ETOVM_N,"Prof., scientif., techn. activ.; admin., support service activ.(ISIC Rev.4)"
+72,EEM,"Employees, total"
+73,EEMVA,"Agriculture, forestry and fishing (ISIC Rev.4)"
+74,EEMVF,Construction (ISIC Rev.4)
+75,EEMVL,Real estate activities (ISIC Rev.4)
+76,EEMVR_U,Other service activities (ISIC Rev.4)
+77,ESEVC,of which: Manufacturing (ISIC Rev.4)
+78,ESEVJ,Information and communication (ISIC Rev.4)
+79,ETOVR_U,Other service activities (ISIC Rev.4)
+80,ETOVO_Q,Public admin.; compulsory s.s.; education; human health (ISIC Rev.4)
+81,ESE,"Self-employed, total"
+82,EEMVB_E,"Industry, including energy (ISIC Rev.4)"
+83,EEMVG_I,"Distrib. trade, repairs; transp.; accommod., food serv. activ. (ISIC Rev.4)"
+84,ESEVA,"Agriculture, forestry and fishing (ISIC Rev.4)"
+85,ESEVF,Construction (ISIC Rev.4)
+86,ESEVK,Financial and insurance activities (ISIC Rev.4)
+87,ESEVO_Q,Public admin.; compulsory s.s.; education; human health (ISIC Rev.4)
+88,EEMVC,of which: Manufacturing (ISIC Rev.4)
+89,EEMVJ,Information and communication (ISIC Rev.4)
+90,EEMVM_N,"Prof., scientif., techn. activ.; admin., support service activ.(ISIC Rev.4)"
+91,ESEVG_I,"Distrib. trade, repairs; transp.; accommod., food serv. activ. (ISIC Rev.4)"
+92,ESEVL,Real estate activities (ISIC Rev.4)
+93,ESEVR_U,Other service activities (ISIC Rev.4)
+94,PPPGDP,add. Purchasing power parity of GDP
+95,P51N1113,Machinery and equipment+weapon system
+96,P3_P5,add. Total domestic demand
+97,P312N,Other goods and services
+98,P3S1,Final consumption expenditure
+99,P5S1,Gross capital formation
+100,DB1_GA,Statistical discrepancy
+101,P3_P6,add. Total demand
