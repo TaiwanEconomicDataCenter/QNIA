@@ -22,25 +22,23 @@
 20,B1GVF,Construction (ISIC Rev.4)
 21,B1GVK,Financial and insurance activities (ISIC Rev.4)
 22,B1GVG_I,"Distrib. trade, repairs; transp.; accommod., food serv. activ. (ISIC Rev.4)"
-23,B1G_P119,"Gross value added at basic prices, excluding FISIM"
-24,D21_D31,Taxes less subsidies on products
-25,B8GS1,Gross saving
-26,B1GVA,"Agriculture, forestry and fishing (ISIC Rev.4)"
-27,B1GVB_E,"Industry, including energy (ISIC Rev.4)"
-28,POPNC,Total population
-29,B1GVG_U,Services (ISIC Rev.4)
-30,B1G,"Gross value added at basic prices, total activity"
-31,B1GVL,Real estate activities (ISIC Rev.4)
-32,B1GVR_U,Other service activities (ISIC Rev.4)
-33,B5_GS1,Gross national income at market prices
-34,P119,Financial Intermediation Services Indirectly Measured (FISIM)
-35,B1GVJ,Information and communication (ISIC Rev.4)
-36,P3_P6,add. Total demand
-37,P3_P5,add. Total domestic demand
-38,P3_P51,add. Final domestic demand
-39,D5_D7TOS2,Current transfers payable to the rest of the world
-40,D1_D4FRS2,Primary incomes receivable from the rest of the world
-41,P5S1,Gross capital formation
-42,D1_D4TOS2,Primary incomes payable to the rest of the world
-43,P3S1,Final consumption expenditure
-44,D1_D4NFRS2,Net primary incomes from the rest of the world
+23,D21_D31,Taxes less subsidies on products
+24,B8GS1,Gross saving
+25,B1GVA,"Agriculture, forestry and fishing (ISIC Rev.4)"
+26,B1GVB_E,"Industry, including energy (ISIC Rev.4)"
+27,POPNC,Total population
+28,B1GVG_U,Services (ISIC Rev.4)
+29,B1G,"Gross value added at basic prices, total activity"
+30,B1GVL,Real estate activities (ISIC Rev.4)
+31,B1GVR_U,Other service activities (ISIC Rev.4)
+32,B5_GS1,Gross national income at market prices
+33,B1GVJ,Information and communication (ISIC Rev.4)
+34,P3_P6,add. Total demand
+35,P3_P5,add. Total domestic demand
+36,P3_P51,add. Final domestic demand
+37,D5_D7TOS2,Current transfers payable to the rest of the world
+38,D1_D4FRS2,Primary incomes receivable from the rest of the world
+39,P5S1,Gross capital formation
+40,D1_D4TOS2,Primary incomes payable to the rest of the world
+41,P3S1,Final consumption expenditure
+42,D1_D4NFRS2,Net primary incomes from the rest of the world

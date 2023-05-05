@@ -1,42 +1,42 @@
-﻿2023-04-07 04:18:25 PM excel_suffix: mysql
+﻿2023-05-04 04:35:54 PM excel_suffix: mysql
 
-2023-04-07 04:18:25 PM data_processing: False
+2023-05-04 04:35:54 PM data_processing: False
 
-2023-04-07 04:18:25 PM find_unknown: False
+2023-05-04 04:35:54 PM find_unknown: False
 
-2023-04-07 04:18:25 PM dealing_start_year: 1947
+2023-05-04 04:35:54 PM dealing_start_year: 1947
 
-2023-04-07 04:20:12 PM Process: File Merging
+2023-05-04 04:36:16 PM Process: File Merging
 
-2023-04-07 04:20:12 PM Reading main key: QNIA_keyNEW.xlsx, Time: 107 s
+2023-05-04 04:36:16 PM Reading main key: QNIA_keyNEW.xlsx, Time: 22 s
 
-2023-04-07 04:20:13 PM Reading main database: QNIA_databaseNEW.xlsx, Time: 107 s
+2023-05-04 04:36:17 PM Reading main database: QNIA_databaseNEW.xlsx, Time: 23 s
 
-2023-04-07 04:20:13 PM Merging File, Time: 108 s
+2023-05-04 04:36:17 PM Merging File, Time: 23 s
 
-2023-04-07 04:20:16 PM Setting files, Time: 110 s
+2023-05-04 04:36:21 PM Setting files, Time: 26 s
 
-2023-04-07 04:20:17 PM Concating file: QNIA_key?, Time: 111 s
+2023-05-04 04:36:21 PM Concating file: QNIA_key?, Time: 27 s
 
-2023-04-07 04:20:17 PM Concating file: QNIA_database?, Time: 111 s
+2023-05-04 04:36:21 PM Concating file: QNIA_database?, Time: 27 s
 
-2023-04-07 04:20:50 PM Setting new files, Time: 144 s
+2023-05-04 04:36:58 PM Setting new files, Time: 64 s
 
-2023-04-07 04:28:15 PM Concating new files: QNIA_database, Time: 590 s
+2023-05-04 04:44:15 PM Concating new files: QNIA_database, Time: 501 s
 
-2023-04-07 04:30:49 PM Process: File Updating
+2023-05-04 04:44:22 PM Process: File Updating
 
-2023-04-07 04:30:49 PM Reading main key: QNIA_keyUP.xlsx, Time: 743 s
+2023-05-04 04:44:22 PM Reading main key: QNIA_keyUP.xlsx, Time: 508 s
 
-2023-04-07 04:30:59 PM Reading main database: QNIA_databaseUP.xlsx, Time: 753 s
+2023-05-04 04:44:32 PM Reading main database: QNIA_databaseUP.xlsx, Time: 518 s
 
-2023-04-07 04:31:50 PM Updating file: 0 s
+2023-05-04 04:45:23 PM Updating file: 0 s
 
-2023-04-07 05:03:33 PM updated: 22119
+2023-05-04 05:16:56 PM updated: 2831
 
-2023-04-07 05:03:33 PM Time: 1902 s
+2023-05-04 05:16:56 PM Time: 1893 s
 
-2023-04-07 05:04:21 PM       databank            name   db_table  db_code  ...    snl                 book                                         form_e form_c
+2023-05-04 05:16:59 PM       databank            name   db_table  db_code  ...    snl                 book                                         form_e form_c
 0         QNIA    A111B11CAR.a  DB_A_0001  data001  ...      1        United States  Gross domestic product - expenditure approach    NaN
 1         QNIA    A111B11CAS.a  DB_A_0001  data002  ...      2        United States  Gross domestic product - expenditure approach    NaN
 2         QNIA    A111B11CQR.a  DB_A_0001  data003  ...      3        United States  Gross domestic product - expenditure approach    NaN
