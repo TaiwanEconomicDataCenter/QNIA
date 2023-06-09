@@ -150,9 +150,5 @@
 148,D12VO_Q,Public admin.; compulsory s.s.; education; human health (ISIC Rev.4)
 149,DB1_GA,Statistical discrepancy
 150,DB1_GE,Statistical discrepancy
-151,ESEVJ,Information and communication (ISIC Rev.4)
-152,ESEVK,Financial and insurance activities (ISIC Rev.4)
-153,ESEVL,Real estate activities (ISIC Rev.4)
-154,ESEVO_Q,Public admin.; compulsory s.s.; education; human health (ISIC Rev.4)
-155,PPPGDP,add. Purchasing power parity of GDP
-156,B6GS1,Gross national disposable income
+151,PPPGDP,add. Purchasing power parity of GDP
+152,B6GS1,Gross national disposable income

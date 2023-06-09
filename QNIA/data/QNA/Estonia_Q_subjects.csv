@@ -153,9 +153,5 @@
 151,D12,"Employers' social contributions, total"
 152,DB1_GA,Statistical discrepancy
 153,DB1_GE,Statistical discrepancy
-154,ESEVJ,Information and communication (ISIC Rev.4)
-155,ESEVK,Financial and insurance activities (ISIC Rev.4)
-156,ESEVL,Real estate activities (ISIC Rev.4)
-157,ESEVO_Q,Public admin.; compulsory s.s.; education; human health (ISIC Rev.4)
-158,PPPGDP,add. Purchasing power parity of GDP
-159,B6GS1,Gross national disposable income
+154,PPPGDP,add. Purchasing power parity of GDP
+155,B6GS1,Gross national disposable income
