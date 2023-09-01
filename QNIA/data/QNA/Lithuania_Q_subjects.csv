@@ -21,79 +21,79 @@
 19,D12VM_N,"Prof., scientific, techn. Act.; admin., support service act. (ISIC Rev.4)"
 20,P51N1113,Machinery and equipment+weapon system
 21,DB1_GA,Statistical discrepancy
-22,D11,"Wages and salaries, total"
-23,D2_D3,Taxes less subsidies on production and imports
-24,D2S1,Taxes on production and imports
-25,P3,Final consumption expenditure
-26,P311B,Durable goods
-27,P32S13,Collective consumption expenditure of general government
-28,P41,add. Actual individual consumption
-29,P51A,Gross fixed capital formation by asset
-30,P62,Exports of services
-31,P72,Imports of services
-32,B11,External balance of goods and services
-33,P51N1112,Other buildings and structures
-34,P51N1114,Cultivated biological resources
-35,B1GVC,of which: Manufacturing (ISIC Rev.4)
-36,B1GVG_U,Services (ISIC Rev.4)
-37,D11VA,"Agriculture, forestry and fishing (ISIC Rev.4)"
-38,D11VF,Construction (ISIC Rev.4)
-39,D11VK,Financial and insurance activities (ISIC Rev.4)
-40,D11VO_Q,Public admin.; compulsory s.s.; education; human health (ISIC Rev.4)
-41,D1VJ,Information and communication (ISIC Rev.4)
-42,D1VM_N,"Prof., scientif., techn. activ.; admin., support service activ.(ISIC Rev.4)"
-43,D12VG_I,"Distr. Trade, repairs; transport; accommod., food serv. Act. (ISIC Rev.4)"
-44,D12VL,Real estate activities (ISIC Rev.4)
-45,D12VR_U,Other service activities (ISIC Rev.4)
-46,P51N1113O,Other machinery and equipment+weapon systems
-47,P31DC,Households consumption expenditure (Domestic Concept)
-48,P31S14,Final consumption expenditure of households
-49,B1GVK,Financial and insurance activities (ISIC Rev.4)
-50,B1GVO_Q,Public admin.; compulsory s.s.; education; human health (ISIC Rev.4)
-51,DB1_GE,Statistical discrepancy
-52,P31S13,Individual consumption expenditure of general government
-53,B1GVM_N,"Prof., scientif., techn. activ.; admin., support service activ.(ISIC Rev.4)"
-54,B1_GE,Gross domestic product - expenditure approach
+22,B1_GE,Gross domestic product - expenditure approach
+23,D11,"Wages and salaries, total"
+24,D2_D3,Taxes less subsidies on production and imports
+25,D2S1,Taxes on production and imports
+26,P3,Final consumption expenditure
+27,P311B,Durable goods
+28,P32S13,Collective consumption expenditure of general government
+29,P41,add. Actual individual consumption
+30,P51A,Gross fixed capital formation by asset
+31,P62,Exports of services
+32,P72,Imports of services
+33,B11,External balance of goods and services
+34,P51N1112,Other buildings and structures
+35,P51N1114,Cultivated biological resources
+36,B1GVC,of which: Manufacturing (ISIC Rev.4)
+37,B1GVG_U,Services (ISIC Rev.4)
+38,D11VA,"Agriculture, forestry and fishing (ISIC Rev.4)"
+39,D11VF,Construction (ISIC Rev.4)
+40,D11VK,Financial and insurance activities (ISIC Rev.4)
+41,D11VO_Q,Public admin.; compulsory s.s.; education; human health (ISIC Rev.4)
+42,D1VJ,Information and communication (ISIC Rev.4)
+43,D1VM_N,"Prof., scientif., techn. activ.; admin., support service activ.(ISIC Rev.4)"
+44,D12VG_I,"Distr. Trade, repairs; transport; accommod., food serv. Act. (ISIC Rev.4)"
+45,D12VL,Real estate activities (ISIC Rev.4)
+46,D12VR_U,Other service activities (ISIC Rev.4)
+47,P51N1113O,Other machinery and equipment+weapon systems
+48,P31DC,Households consumption expenditure (Domestic Concept)
+49,P31S14,Final consumption expenditure of households
+50,B1GVK,Financial and insurance activities (ISIC Rev.4)
+51,B1GVO_Q,Public admin.; compulsory s.s.; education; human health (ISIC Rev.4)
+52,DB1_GE,Statistical discrepancy
+53,P31S13,Individual consumption expenditure of general government
+54,B1GVM_N,"Prof., scientif., techn. activ.; admin., support service activ.(ISIC Rev.4)"
 55,P31S14_S15,Private final consumption expenditure
 56,P51,Gross fixed capital formation
-57,B1_GA,Gross domestic product at market prices - output approach
-58,B2G_B3G,Gross operating surplus and mixed income
-59,D1,"Compensation of employees, total"
-60,D21S1,Taxes on products
-61,D3S1,Subsidies on production and imports
-62,P312N,Other goods and services
-63,P3S13,General government final consumption expenditure
-64,P52_P53,Changes in inventories and acquisitions less disposals of valuables
-65,P71,Imports of goods
-66,D1VC,of which: Manufacturing (ISIC Rev.4)
-67,D12VB_E,"Industry, including energy (ISIC Rev.4)"
-68,P52,Changes in inventories
-69,B1GVB_E,"Industry, including energy (ISIC Rev.4)"
-70,B1GVG_I,"Distrib. trade, repairs; transp.; accommod., food serv. activ. (ISIC Rev.4)"
-71,B1GVL,Real estate activities (ISIC Rev.4)
-72,B1GVR_U,Other service activities (ISIC Rev.4)
-73,D11VC,of which: Manufacturing (ISIC Rev.4)
-74,D11VJ,Information and communication (ISIC Rev.4)
-75,D1VB_E,"Industry, including energy (ISIC Rev.4)"
-76,D1VG_I,"Distrib. trade, repairs; transp.; accommod., food serv. activ. (ISIC Rev.4)"
-77,D1VL,Real estate activities (ISIC Rev.4)
-78,D1VR_U,Other service activities (ISIC Rev.4)
-79,D12VA,"Agriculture, forestry and fishing (ISIC Rev.4)"
-80,D12VF,Construction (ISIC Rev.4)
-81,D12VK,Financial and insurance activities (ISIC Rev.4)
-82,D12VO_Q,Public admin.; compulsory s.s.; education; human health (ISIC Rev.4)
-83,P61,Exports of goods
-84,P51N1111,Dwellings
-85,D11VM_N,"Prof., scientif., techn. activ.; admin., support service activ.(ISIC Rev.4)"
-86,D1VA,"Agriculture, forestry and fishing (ISIC Rev.4)"
-87,D1VF,Construction (ISIC Rev.4)
-88,D12,"Employers' social contributions, total"
-89,D12VC,of which: Manufacturing (ISIC Rev.4)
-90,P51N1113I,ICT equipment
-91,B1G,"Gross value added at basic prices, total activity"
-92,D1S1,Compensation of employees
-93,P53,Acquisitions less disposals of valuables
-94,RB1_GE,Residual item
+57,RB1_GE,Residual item
+58,B1_GA,Gross domestic product at market prices - output approach
+59,B2G_B3G,Gross operating surplus and mixed income
+60,D1,"Compensation of employees, total"
+61,D21S1,Taxes on products
+62,D3S1,Subsidies on production and imports
+63,P312N,Other goods and services
+64,P3S13,General government final consumption expenditure
+65,P52_P53,Changes in inventories and acquisitions less disposals of valuables
+66,P71,Imports of goods
+67,D1VC,of which: Manufacturing (ISIC Rev.4)
+68,D12VB_E,"Industry, including energy (ISIC Rev.4)"
+69,P52,Changes in inventories
+70,B1GVB_E,"Industry, including energy (ISIC Rev.4)"
+71,B1GVG_I,"Distrib. trade, repairs; transp.; accommod., food serv. activ. (ISIC Rev.4)"
+72,B1GVL,Real estate activities (ISIC Rev.4)
+73,B1GVR_U,Other service activities (ISIC Rev.4)
+74,D11VC,of which: Manufacturing (ISIC Rev.4)
+75,D11VJ,Information and communication (ISIC Rev.4)
+76,D1VB_E,"Industry, including energy (ISIC Rev.4)"
+77,D1VG_I,"Distrib. trade, repairs; transp.; accommod., food serv. activ. (ISIC Rev.4)"
+78,D1VL,Real estate activities (ISIC Rev.4)
+79,D1VR_U,Other service activities (ISIC Rev.4)
+80,D12VA,"Agriculture, forestry and fishing (ISIC Rev.4)"
+81,D12VF,Construction (ISIC Rev.4)
+82,D12VK,Financial and insurance activities (ISIC Rev.4)
+83,D12VO_Q,Public admin.; compulsory s.s.; education; human health (ISIC Rev.4)
+84,P61,Exports of goods
+85,P51N1111,Dwellings
+86,D11VM_N,"Prof., scientif., techn. activ.; admin., support service activ.(ISIC Rev.4)"
+87,D1VA,"Agriculture, forestry and fishing (ISIC Rev.4)"
+88,D1VF,Construction (ISIC Rev.4)
+89,D12,"Employers' social contributions, total"
+90,D12VC,of which: Manufacturing (ISIC Rev.4)
+91,P51N1113I,ICT equipment
+92,B1G,"Gross value added at basic prices, total activity"
+93,D1S1,Compensation of employees
+94,P53,Acquisitions less disposals of valuables
 95,ETO,"Employment, total"
 96,EEMVG_I,"Distrib. trade, repairs; transp.; accommod., food serv. activ. (ISIC Rev.4)"
 97,EEMVL,Real estate activities (ISIC Rev.4)
@@ -135,20 +135,21 @@
 133,ETOVM_N,"Prof., scientif., techn. activ.; admin., support service activ.(ISIC Rev.4)"
 134,EEMNC,Employees
 135,PPPGDP,add. Purchasing power parity of GDP
-136,B8NS1,Net saving
-137,B9S1,Net lending/net borrowing
-138,D5_D7NFRS2,Net current transfers from the rest of the world
-139,P3S1,Final consumption expenditure
-140,P5S1,Gross capital formation
-141,D5_D7FRS2,Current transfers receivable from the rest of the world
-142,D5_D7TOS2,Current transfers payable to the rest of the world
-143,B5_GS1,Gross national income at market prices
-144,B5_NS1,Net national income at market prices
-145,B6GS1,Gross national disposable income
-146,B6NS1,Net national disposable income
-147,K1MS1,Consumption of fixed capital
-148,K1S1,Consumption of fixed capital
-149,RB1_GS1,Residual item
-150,B1_GS1,Gross domestic product
-151,P3_P5,add. Total domestic demand
-152,D8S1,Adjustment for the change in pension entitlements
+136,B1_GS1,Gross domestic product
+137,B8NS1,Net saving
+138,B9S1,Net lending/net borrowing
+139,D5_D7NFRS2,Net current transfers from the rest of the world
+140,P3S1,Final consumption expenditure
+141,P5S1,Gross capital formation
+142,D5_D7FRS2,Current transfers receivable from the rest of the world
+143,D5_D7TOS2,Current transfers payable to the rest of the world
+144,B5_GS1,Gross national income at market prices
+145,B5_NS1,Net national income at market prices
+146,B6GS1,Gross national disposable income
+147,B6NS1,Net national disposable income
+148,D1_D4NFRS2,Net primary incomes from the rest of the world
+149,K1MS1,Consumption of fixed capital
+150,K1S1,Consumption of fixed capital
+151,RB1_GS1,Residual item
+152,P3_P5,add. Total domestic demand
+153,D8S1,Adjustment for the change in pension entitlements
