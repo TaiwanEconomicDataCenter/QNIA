@@ -10,12 +10,12 @@
 8,VIXOBSA,"Volume index, OECD reference year, seasonally adjusted"
 9,VOBARSA,"National currency, volume estimates, OECD reference year, annual levels, seasonally adjusted"
 10,VPVOBARSA,"US dollars, volume estimates, fixed PPPs, OECD reference year, annual levels, seasonally adjusted"
-11,CQR,"National currency, current prices, quarterly levels"
-12,LNBQR,"National currency, chained volume estimates, national reference year, quarterly levels"
-13,PERSA,"Persons, seasonally adjusted"
-14,PER,Persons
-15,HRSSA,"Hours worked, seasonally adjusted"
-16,HCPCARSA,"Per Head, US $, current prices, current PPPs, seasonally adjusted"
-17,HVPVOBARSA,"Per Head, US dollars, volume estimates, fixed PPPs, OECD reference year, seasonally adjusted"
-18,CD,National currency per US Dollar
+11,PERSA,"Persons, seasonally adjusted"
+12,PER,Persons
+13,HRSSA,"Hours worked, seasonally adjusted"
+14,HCPCARSA,"Per Head, US $, current prices, current PPPs, seasonally adjusted"
+15,HVPVOBARSA,"Per Head, US dollars, volume estimates, fixed PPPs, OECD reference year, seasonally adjusted"
+16,CD,National currency per US Dollar
+17,CQR,"National currency, current prices, quarterly levels"
+18,LNBQR,"National currency, chained volume estimates, national reference year, quarterly levels"
 19,HRS,Hours worked
