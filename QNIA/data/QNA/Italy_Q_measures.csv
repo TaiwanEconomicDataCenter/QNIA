@@ -1,6 +1,6 @@
 ,id,name
-0,CQR,"National currency, current prices, quarterly levels"
-1,CQRSA,"National currency, current prices, quarterly levels, seasonally adjusted"
+0,CQRSA,"National currency, current prices, quarterly levels, seasonally adjusted"
+1,CQR,"National currency, current prices, quarterly levels"
 2,LNBQR,"National currency, chained volume estimates, national reference year, quarterly levels"
 3,LNBQRSA,"National currency, chained volume estimates, national reference year, quarterly levels, seasonally adjusted"
 4,CARSA,"National currency, current prices, annual levels, seasonally adjusted"
