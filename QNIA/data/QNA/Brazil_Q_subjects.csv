@@ -29,11 +29,11 @@
 27,B1GVA,"Agriculture, forestry and fishing (ISIC Rev.4)"
 28,B1GVF,Construction (ISIC Rev.4)
 29,B1GVC,of which: Manufacturing (ISIC Rev.4)
-30,B1GVG_U,Services (ISIC Rev.4)
-31,B1GVL,Real estate activities (ISIC Rev.4)
-32,B1GVO_Q,Public admin.; compulsory s.s.; education; human health (ISIC Rev.4)
-33,B1GVG_I,"Distrib. trade, repairs; transp.; accommod., food serv. activ. (ISIC Rev.4)"
-34,B1GVK,Financial and insurance activities (ISIC Rev.4)
+30,B1GVL,Real estate activities (ISIC Rev.4)
+31,B1GVO_Q,Public admin.; compulsory s.s.; education; human health (ISIC Rev.4)
+32,B1GVG_I,"Distrib. trade, repairs; transp.; accommod., food serv. activ. (ISIC Rev.4)"
+33,B1GVK,Financial and insurance activities (ISIC Rev.4)
+34,B1GVG_U,Services (ISIC Rev.4)
 35,B1GVB_E,"Industry, including energy (ISIC Rev.4)"
 36,PPPGDP,add. Purchasing power parity of GDP
 37,K2S1,Acquisitions less disposals of non-financial non-produced assets
