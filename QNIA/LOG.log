@@ -1,52 +1,52 @@
-﻿2024-01-02 10:03:00 AM excel_suffix: mysql
+﻿2024-02-06 10:08:29 AM excel_suffix: mysql
 
-2024-01-02 10:03:00 AM data_processing: False
+2024-02-06 10:08:29 AM data_processing: False
 
-2024-01-02 10:03:00 AM find_unknown: False
+2024-02-06 10:08:29 AM find_unknown: False
 
-2024-01-02 10:03:00 AM dealing_start_year: 1947
+2024-02-06 10:08:29 AM dealing_start_year: 1947
 
-2024-01-02 10:08:19 AM Process: File Merging
+2024-02-06 10:08:51 AM Process: File Merging
 
-2024-01-02 10:08:19 AM Reading main key: QNIA_keyNEW.xlsx, Time: 319 s
+2024-02-06 10:08:51 AM Reading main key: QNIA_keyNEW.xlsx, Time: 21 s
 
-2024-01-02 10:08:20 AM Reading main database: QNIA_databaseNEW.xlsx, Time: 320 s
+2024-02-06 10:08:51 AM Reading main database: QNIA_databaseNEW.xlsx, Time: 22 s
 
-2024-01-02 10:08:20 AM Merging File, Time: 320 s
+2024-02-06 10:08:51 AM Merging File, Time: 22 s
 
-2024-01-02 10:08:23 AM Setting files, Time: 323 s
+2024-02-06 10:08:54 AM Setting files, Time: 25 s
 
-2024-01-02 10:08:23 AM Concating file: QNIA_key?, Time: 323 s
+2024-02-06 10:08:54 AM Concating file: QNIA_key?, Time: 25 s
 
-2024-01-02 10:08:23 AM Concating file: QNIA_database?, Time: 323 s
+2024-02-06 10:08:55 AM Concating file: QNIA_database?, Time: 25 s
 
-2024-01-02 10:08:53 AM Setting new files, Time: 353 s
+2024-02-06 10:09:30 AM Setting new files, Time: 60 s
 
-2024-01-02 10:16:59 AM Concating new files: QNIA_database, Time: 839 s
+2024-02-06 10:17:40 AM Concating new files: QNIA_database, Time: 551 s
 
-2024-01-02 10:19:08 AM Process: File Updating
+2024-02-06 10:18:23 AM Process: File Updating
 
-2024-01-02 10:19:08 AM Reading main key: QNIA_keyUP.xlsx, Time: 968 s
+2024-02-06 10:18:23 AM Reading main key: QNIA_keyUP.xlsx, Time: 594 s
 
-2024-01-02 10:19:21 AM Reading main database: QNIA_databaseUP.xlsx, Time: 980 s
+2024-02-06 10:18:35 AM Reading main database: QNIA_databaseUP.xlsx, Time: 606 s
 
-2024-01-02 10:20:27 AM Updating file: 0 s
+2024-02-06 10:19:44 AM Updating file: 0 s
 
-2024-01-02 10:52:32 AM updated: 6645
+2024-02-06 10:52:04 AM updated: 4131
 
-2024-01-02 10:52:32 AM Time: 1925 s
+2024-02-06 10:52:04 AM Time: 1940 s
 
-2024-01-02 10:53:01 AM       databank            name   db_table  db_code                                             desc_e  ... name_ord    snl                 book                                         form_e form_c
+2024-02-06 10:52:19 AM       databank            name   db_table  db_code                                             desc_e  ... name_ord    snl                 book                                         form_e form_c
 0         QNIA    A111B11CAR.a  DB_A_0001  data001  External balance of goods and services, Nation...  ...      USA      1        United States  Gross domestic product - expenditure approach    NaN
 1         QNIA    A111B11CAS.a  DB_A_0001  data002  External balance of goods and services, Nation...  ...      USA      2        United States  Gross domestic product - expenditure approach    NaN
 2         QNIA    A111B11CQR.a  DB_A_0001  data003  External balance of goods and services, Nation...  ...      USA      3        United States  Gross domestic product - expenditure approach    NaN
 3         QNIA    A111B11CQS.a  DB_A_0001  data004  External balance of goods and services, Nation...  ...      USA      4        United States  Gross domestic product - expenditure approach    NaN
 4         QNIA    A111B11LNQ.a  DB_A_0001  data005  External balance of goods and services, Nation...  ...      USA      5        United States  Gross domestic product - expenditure approach   2017
 ...        ...             ...        ...      ...                                                ...  ...      ...    ...                  ...                                            ...    ...
-45898     QNIA     Q990P7GYS.q  DB_Q_0116  data145  Imports of goods and services, Growth rate bas...  ...      OTF  45899  OECD - FORMER TOTAL  Gross domestic product - expenditure approach    NaN
-45899     QNIA     Q990P7VIO.q  DB_Q_0116  data146  Imports of goods and services, Volume index, O...  ...      OTF  45900  OECD - FORMER TOTAL  Gross domestic product - expenditure approach   2015
-45900     QNIA     Q990P7VPS.q  DB_Q_0116  data147  Imports of goods and services, US dollars, vol...  ...      OTF  45901  OECD - FORMER TOTAL  Gross domestic product - expenditure approach   2015
-45901     QNIA  Q990RB1GECPS.q  DB_Q_0116  data148  Residual item, US dollars, current prices, cur...  ...      OTF  45902  OECD - FORMER TOTAL  Gross domestic product - expenditure approach    NaN
-45902     QNIA  Q990RB1GEVPS.q  DB_Q_0116  data149  Residual item, US dollars, volume estimates, f...  ...      OTF  45903  OECD - FORMER TOTAL  Gross domestic product - expenditure approach   2015
+45913     QNIA     Q990P7GYS.q  DB_Q_0116  data152  Imports of goods and services, Growth rate bas...  ...      OTF  45914  OECD - FORMER TOTAL  Gross domestic product - expenditure approach    NaN
+45914     QNIA     Q990P7VIO.q  DB_Q_0116  data153  Imports of goods and services, Volume index, O...  ...      OTF  45915  OECD - FORMER TOTAL  Gross domestic product - expenditure approach   2015
+45915     QNIA     Q990P7VPS.q  DB_Q_0116  data154  Imports of goods and services, US dollars, vol...  ...      OTF  45916  OECD - FORMER TOTAL  Gross domestic product - expenditure approach   2015
+45916     QNIA  Q990RB1GECPS.q  DB_Q_0116  data155  Residual item, US dollars, current prices, cur...  ...      OTF  45917  OECD - FORMER TOTAL  Gross domestic product - expenditure approach    NaN
+45917     QNIA  Q990RB1GEVPS.q  DB_Q_0116  data156  Residual item, US dollars, volume estimates, f...  ...      OTF  45918  OECD - FORMER TOTAL  Gross domestic product - expenditure approach   2015
 
-[45903 rows x 15 columns]
+[45918 rows x 15 columns]
